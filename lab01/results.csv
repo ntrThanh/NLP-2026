@@ -1,0 +1,6 @@
+query,p_at_5,r_at_5,mrr,retrieved,relevant
+medical image classification,0.4,1.0,1.0,"[18971, 8527, 19908, 12658, 15682]","[18971, 12658]"
+deep learning healthcare,0.2,0.5,0.5,"[7564, 6123, 11979, 11119, 9252]","[6123, 8270]"
+natural language processing,0.0,0.0,0.0,"[25428, 8705, 24482, 4075, 701]","[5912, 23722]"
+transformer language model,0.0,0.0,0.0,"[27936, 25428, 24482, 4075, 701]",[18339]
+heart attack treatment,0.4,1.0,1.0,"[799, 1422, 11245, 22876, 16626]","[799, 1422]"
