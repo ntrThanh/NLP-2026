@@ -1,0 +1,12 @@
+Category,Item,Config_1,Config_2,Config_3
+Context Window,doctor - physician,w=2 (0.7308),w=5 (0.7293),w=10 (0.7343)
+Context Window,doctor - hospital,w=2 (0.4768),w=5 (0.4219),w=10 (0.4767)
+Context Window,cat - dog,w=2 (0.7019),w=5 (0.6516),w=10 (0.6536)
+Dimension,dim=50,TrainTime=12.8s,RAM=46.19MB,Analogy=queen
+Dimension,dim=100,TrainTime=16.91s,RAM=66.71MB,Analogy=queen
+Dimension,dim=300,TrainTime=32.9s,RAM=148.83MB,Analogy=queen
+Word Similarity,king - queen,Score=0.7673,Model=w2v_cbow_100d,Window=5
+Word Similarity,doctor - physician,Score=0.7293,Model=w2v_cbow_100d,Window=5
+Word Similarity,cat - dog,Score=0.6516,Model=w2v_cbow_100d,Window=5
+Word Similarity,car - automobile,Score=0.2919,Model=w2v_cbow_100d,Window=5
+Word Similarity,computer - banana,Score=0.0682,Model=w2v_cbow_100d,Window=5

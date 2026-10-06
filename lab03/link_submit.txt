@@ -1,0 +1,2 @@
+Đường dẫn đến bài tập lab03:
+https://github.com/ntrThanh/NLP-2026/tree/master/lab03
