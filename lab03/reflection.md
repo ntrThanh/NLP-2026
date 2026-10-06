@@ -1,7 +1,4 @@
 # Báo cáo phản tư và ôn tập (Reflection & Learning Check)
-
-Tài liệu này tổng kết các nội dung lý thuyết nâng cao, đánh giá giới hạn của mô hình biểu diễn từ tĩnh và chuẩn bị cho phần kiểm tra vấn đáp cá nhân theo Mục 26, 27, 28, 29 của đề bài W3.pdf.
-
 ---
 
 ## 1. Vấn đề từ đa nghĩa (Polysemy)

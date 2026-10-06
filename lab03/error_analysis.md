@@ -1,7 +1,4 @@
 # Phân tích lỗi mô hình Word2Vec (Error Analysis)
-
-Tài liệu này phân tích chi tiết 3 trường hợp mô hình Word2Vec dự đoán độ tương đồng chính xác và 3 trường hợp dự đoán sai hoặc cho kết quả bất ngờ, tuân thủ Mục 25 của đề bài W3.pdf.
-
 ---
 
 ## 1. Ba trường hợp dự đoán đúng (Correct Similarities)
