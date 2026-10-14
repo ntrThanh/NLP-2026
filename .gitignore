@@ -18,3 +18,9 @@ ENV/
 .DS_Store
 .vscode/
 .idea/
+
+# Datasets and large archives
+datasets/
+*/datasets/
+*.tar.gz
+
