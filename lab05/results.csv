@@ -1,0 +1,5 @@
+Model,Representation,Parameters,Training time (s),Accuracy,Precision,Recall,F1
+Logistic Regression,TF-IDF,"20,001",12.03,0.9024,0.8958,0.9116,0.9036
+Simple RNN,Learned Embedding,"1,288,513",43.96,0.6262,0.6096,0.7099,0.6559
+LSTM,Learned Embedding,"1,313,473",76.77,0.8038,0.838,0.7552,0.7944
+GRU,Learned Embedding,"1,305,153",114.09,0.833,0.8058,0.8792,0.8409
