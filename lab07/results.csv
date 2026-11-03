@@ -1,0 +1,3 @@
+Model,Representation,Parameters,Training time (s),Accuracy,Precision,Recall,F1
+LSTM,Sequential Hidden State,"2,692,481",30.01,0.6124,0.6325,0.5218,0.5718
+Transformer (4 Heads),Multi-Head Self-Attention + FFN,"2,692,353",121.64,0.7444,0.7795,0.6758,0.724
