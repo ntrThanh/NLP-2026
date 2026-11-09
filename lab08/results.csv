@@ -1,0 +1,14 @@
+Experiment,Setting,Init,Encoder trainable,Train size,Max length,Accuracy,Precision,Recall,F1,Training time (s),Total params,Trainable params,Peak memory (MB)
+Exp1,Transformer from scratch,random,True,4000,128,0.498,0.0,0.0,0.0,170.19,108893186.0,108893186.0,3813.2
+Exp1,Pretrained Transformer (fine-tuning),pretrained,True,4000,128,0.86,0.839,0.8924,0.8649,178.34,108893186.0,108893186.0,4680.8
+Exp2,Frozen encoder (feature extraction),pretrained,False,4000,128,0.779,0.7607,0.8167,0.7877,65.68,108893186.0,1538.0,2312.9
+Exp3,Pretrained 10%,pretrained,True,400,128,0.826,0.8333,0.8167,0.8249,29.34,108893186.0,108893186.0,5975.7
+Exp3,From scratch 10%,random,True,400,128,0.502,0.502,1.0,0.6684,29.32,108893186.0,108893186.0,5987.7
+Exp3,Pretrained 25%,pretrained,True,1000,128,0.844,0.8327,0.8625,0.8474,54.28,108893186.0,108893186.0,5987.7
+Exp3,From scratch 25%,random,True,1000,128,0.502,0.502,1.0,0.6684,53.97,108893186.0,108893186.0,5987.7
+Exp3,Pretrained 50%,pretrained,True,2000,128,0.847,0.8483,0.8466,0.8475,95.59,108893186.0,108893186.0,5987.7
+Exp3,From scratch 50%,random,True,2000,128,0.502,0.502,1.0,0.6684,95.06,108893186.0,108893186.0,5987.7
+Exp4,Max length 64,pretrained,True,4000,64,0.823,0.8095,0.8466,0.8277,94.59,108893186.0,108893186.0,4718.1
+Exp4,Max length 256,pretrained,True,4000,256,0.903,0.8917,0.9183,0.9048,370.93,108893186.0,108893186.0,8486.3
+Exp5,Train IMDb -> test A: IMDb movie reviews (in-domain),pretrained,True,4000,128,0.86,0.839,0.8924,0.8649,,,,
+Exp5,Train IMDb -> test B: Amazon product reviews (out-of-domain),pretrained,True,4000,128,0.904,0.8621,0.969,0.9124,,,,
