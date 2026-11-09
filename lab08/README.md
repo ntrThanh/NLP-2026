@@ -123,3 +123,15 @@ python lab08/pretrained_classification.py
 
 ### Chạy notebook thực nghiệm:
 Mở và thực thi các cell trong [experiments.ipynb](file:///media/trong-thanh/Data/University/Fourth%20Year/NLP/lab08/experiments.ipynb) hoặc [tokenization.ipynb](file:///media/trong-thanh/Data/University/Fourth%20Year/NLP/lab08/tokenization.ipynb) thông qua Jupyter Notebook hoặc VS Code.
+
+---
+
+## 7. Khai báo Sử dụng AI (AI Usage Declaration — Mục 24)
+
+Tuân thủ quy định tại Mục 24 của tài liệu thực hành Lab 08:
+
+* **AI-assisted code:** Hỗ trợ chuẩn hóa cấu trúc boilerplate pipeline phân loại văn bản và định dạng biểu đồ trực quan hóa kết quả.
+* **What was generated:** Khung sườn mã nguồn `pretrained_classification.py` và script tạo notebook `tokenization.ipynb`.
+* **What was modified:** Tinh chỉnh cơ chế trích xuất vector `[CLS]` ở tầng cuối cùng, bổ sung Dropout, và thiết lập chế độ đóng băng trọng số encoder (`requires_grad = False`) cho thí nghiệm Feature Extraction.
+* **What was verified:** Kiểm tra toàn bộ kích thước tensor đầu ra, tính đúng đắn của attention mask khi padding, kiểm chứng giá trị hàm mất mát Cross-Entropy và xác minh tính nhất quán của bảng số liệu thực nghiệm so với lý thuyết.
+
