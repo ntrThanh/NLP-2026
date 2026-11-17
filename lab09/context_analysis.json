@@ -1,0 +1,212 @@
+{
+  "Barcelona": [
+    {
+      "type": "LOC",
+      "context": "FIFA 's players ' status committee , meeting in Barcelona , decided that although the Udinese document was basically valid , it could not be legally protected .",
+      "idx": 146
+    },
+    {
+      "type": "ORG",
+      "context": "Barcelona ( Spain ) 9 4 5 13",
+      "idx": 179
+    },
+    {
+      "type": "ORG",
+      "context": "Goalkeepers - Vitor Baia ( Barcelona , Spain ) , Rui Correia ( Braga ) :",
+      "idx": 696
+    },
+    {
+      "type": "ORG",
+      "context": "Defenders - Paulinho Santos ( Porto ) , Sergio Conceicao ( Porto ) , Joao Manuel Pinto ( Porto ) , Oceano Cruz ( Sporting ) , Fernando Couto ( Barcelona ) , Helder Cristovao ( Deportivo Coruna , Spain ) , Dimas Teixeira ( Juventus , Italy ) , Carlos Secretario ( Real Madrid , Spain ) :",
+      "idx": 697
+    }
+  ],
+  "Charleroi": [
+    {
+      "type": "ORG",
+      "context": "Charleroi ( Belgium ) 9 0 9 9",
+      "idx": 174
+    },
+    {
+      "type": "LOC",
+      "context": "In Charleroi :",
+      "idx": 855
+    },
+    {
+      "type": "ORG",
+      "context": "Charleroi ( Belgium ) 75 Estudiantes Madrid ( Spain ) 82 ( 34-35 )",
+      "idx": 856
+    },
+    {
+      "type": "ORG",
+      "context": "Charleroi - Eric Cleymans 18 , Ron Ellis 18 , Jacques Stas 14",
+      "idx": 858
+    }
+  ],
+  "Pontypridd": [
+    {
+      "type": "LOC",
+      "context": "Barbarians - 15 - Tim Stimpson ( England ) ; 14 - Nigel Walker ( Wales ) , 13 - Allan Bateman ( Wales ) , 12 - Gregor Townsend ( Scotland ) , 11 - Tony Underwood ( England ) ; 10 - Rob Andrew ( England ) , 9 - Rob Howley ( Wales ) ; 8 - Scott Quinnell ( Wales ) , 7 - Neil Back ( England ) , 6 - Dale McIntosh ( Pontypridd ) , 5 - Ian Jones ( New Zealand ) , 4 - Craig Quinnell ( Wales ) , 3 - Darren Garforth ( Leicester ) , 2 - Norm Hewitt ( New Zealand ) , 1 - Nick Popplewell ( Ireland ) .",
+      "idx": 202
+    },
+    {
+      "type": "ORG",
+      "context": "Pontypridd 53 Bridgend 9",
+      "idx": 2832
+    }
+  ],
+  "Leicester": [
+    {
+      "type": "LOC",
+      "context": "Barbarians - 15 - Tim Stimpson ( England ) ; 14 - Nigel Walker ( Wales ) , 13 - Allan Bateman ( Wales ) , 12 - Gregor Townsend ( Scotland ) , 11 - Tony Underwood ( England ) ; 10 - Rob Andrew ( England ) , 9 - Rob Howley ( Wales ) ; 8 - Scott Quinnell ( Wales ) , 7 - Neil Back ( England ) , 6 - Dale McIntosh ( Pontypridd ) , 5 - Ian Jones ( New Zealand ) , 4 - Craig Quinnell ( Wales ) , 3 - Darren Garforth ( Leicester ) , 2 - Norm Hewitt ( New Zealand ) , 1 - Nick Popplewell ( Ireland ) .",
+      "idx": 202
+    },
+    {
+      "type": "ORG",
+      "context": "Leicester 1 ( Marshall 78 ) Blackburn 1 ( Sutton 34 ) .",
+      "idx": 2878
+    },
+    {
+      "type": "ORG",
+      "context": "Leicester 17 6 3 8 17 22 21",
+      "idx": 2959
+    },
+    {
+      "type": "ORG",
+      "context": "Leicester 1 Blackburn 1",
+      "idx": 3084
+    }
+  ],
+  "Tasmania": [
+    {
+      "type": "LOC",
+      "context": "Score on the first day of the four-day Sheffield Shield match between Tasmania and Victoria at Bellerive Oval on Friday :",
+      "idx": 296
+    },
+    {
+      "type": "LOC",
+      "context": "Tasmania 352 for three ( David Boon 106 not out , Shaun Young 86 not out , Michael DiVenuto 119 ) v Victoria .",
+      "idx": 297
+    },
+    {
+      "type": "ORG",
+      "context": "Former Australia test batsman Dean Jones hit an unbeaten 130 to lead Victoria 's fightback in their Sheffield Shield match against Tasmania on Saturday .",
+      "idx": 3174
+    },
+    {
+      "type": "ORG",
+      "context": "Close of play score on the second day of the four-day Sheffield Shield cricket match between Tasmania and Victoria at Bellerive Oval on Saturday :",
+      "idx": 3184
+    }
+  ],
+  "Victoria": [
+    {
+      "type": "LOC",
+      "context": "Score on the first day of the four-day Sheffield Shield match between Tasmania and Victoria at Bellerive Oval on Friday :",
+      "idx": 296
+    },
+    {
+      "type": "ORG",
+      "context": "Tasmania 352 for three ( David Boon 106 not out , Shaun Young 86 not out , Michael DiVenuto 119 ) v Victoria .",
+      "idx": 297
+    },
+    {
+      "type": "LOC",
+      "context": "Former Australia test batsman Dean Jones hit an unbeaten 130 to lead Victoria 's fightback in their Sheffield Shield match against Tasmania on Saturday .",
+      "idx": 3174
+    },
+    {
+      "type": "LOC",
+      "context": "Replying to the home side 's first innings 481 for eight declared , Victoria reached 220 for three at close of play on the second day of the four-day match at Hobart 's Bellerive Oval .",
+      "idx": 3175
+    }
+  ],
+  "NEW YORK": [
+    {
+      "type": "LOC",
+      "context": "NEW YORK 1996-12-06",
+      "idx": 354
+    },
+    {
+      "type": "LOC",
+      "context": "NEW YORK 1996-12-06",
+      "idx": 404
+    },
+    {
+      "type": "LOC",
+      "context": "NEW YORK 1996-12-06",
+      "idx": 432
+    },
+    {
+      "type": "ORG",
+      "context": "NEW YORK 10 6 .625 3",
+      "idx": 440
+    }
+  ],
+  "League": [
+    {
+      "type": "ORG",
+      "context": "League teams after games played on Thursday ( tabulate under",
+      "idx": 356
+    },
+    {
+      "type": "ORG",
+      "context": "League games on Thursday ( home team in CAPS ) :",
+      "idx": 408
+    },
+    {
+      "type": "LOC",
+      "context": "League game on Thursday ( home team in CAPS ) :",
+      "idx": 555
+    },
+    {
+      "type": "ORG",
+      "context": "Addressing a convention on Italian unity in Mantua , where the party has set up its own \" parliament of the north \" , Scalfaro made a direct appeal to what he called \" my friends from the League \" to work instead for federal reform .",
+      "idx": 2125
+    }
+  ],
+  "HARTFORD": [
+    {
+      "type": "ORG",
+      "context": "HARTFORD 12 7 6 77 76 30",
+      "idx": 361
+    },
+    {
+      "type": "LOC",
+      "context": "CITY OF HARTFORD , CONNECTICUT",
+      "idx": 1632
+    },
+    {
+      "type": "ORG",
+      "context": "HARTFORD 12 7 6 77 76 30",
+      "idx": 3325
+    },
+    {
+      "type": "LOC",
+      "context": "BUFFALO AT HARTFORD",
+      "idx": 3361
+    }
+  ],
+  "BUFFALO": [
+    {
+      "type": "ORG",
+      "context": "BUFFALO 13 12 1 77 76 27",
+      "idx": 362
+    },
+    {
+      "type": "LOC",
+      "context": "ANAHEIM AT BUFFALO",
+      "idx": 395
+    },
+    {
+      "type": "ORG",
+      "context": "BUFFALO 9 4 0 267 215",
+      "idx": 494
+    },
+    {
+      "type": "ORG",
+      "context": "BUFFALO AT SEATTLE",
+      "idx": 547
+    }
+  ]
+}

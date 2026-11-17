@@ -1,0 +1,176 @@
+{
+  "false_positives": [
+    {
+      "text": "JAPAN GET LUCKY WIN ,",
+      "sentence": "SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",
+      "gold": "O",
+      "pred": "LOC: LUCKY",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "a Group C championship match",
+      "sentence": "Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .",
+      "gold": "O",
+      "pred": "MISC: C",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "GOLF - ZIMBABWE",
+      "sentence": "GOLF - ZIMBABWE OPEN SECOND ROUND SCORES .",
+      "gold": "O",
+      "pred": "LOC: GOLF",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "SUFFERS MORE AUSTRALIAN TOUR MISERY .",
+      "sentence": "CRICKET - LARA SUFFERS MORE AUSTRALIAN TOUR MISERY .",
+      "gold": "O",
+      "pred": "MISC: AUSTRALIAN TOUR",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "EASTERN CONFERENCE",
+      "sentence": "EASTERN CONFERENCE",
+      "gold": "O",
+      "pred": "MISC: EASTERN CONFERENCE",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "NORTHEAST DIVISION",
+      "sentence": "NORTHEAST DIVISION",
+      "gold": "O",
+      "pred": "MISC: NORTHEAST DIVISION",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "WESTERN CONFERENCE",
+      "sentence": "WESTERN CONFERENCE",
+      "gold": "O",
+      "pred": "MISC: WESTERN CONFERENCE",
+      "error_type": "spurious_entity"
+    },
+    {
+      "text": "AMERICAN FOOTBALL-COLTS CLOBBER EAGLES TO",
+      "sentence": "NFL AMERICAN FOOTBALL-COLTS CLOBBER EAGLES TO STAY IN PLAYOFF HUNT .",
+      "gold": "O",
+      "pred": "PER: CLOBBER",
+      "error_type": "spurious_entity"
+    }
+  ],
+  "false_negatives": [
+    {
+      "text": "BACK FOR ITALY AFTER A",
+      "sentence": "RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR .",
+      "gold": "LOC: ITALY",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "TO MISS CAMPESE FAREWELL .",
+      "sentence": "RUGBY UNION - LITTLE TO MISS CAMPESE FAREWELL .",
+      "gold": "PER: CAMPESE",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "AUSTRALIA V WEST INDIES WORLD SERIES",
+      "sentence": "CRICKET - AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD .",
+      "gold": "LOC: WEST INDIES",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "WEST INDIES WORLD SERIES SCOREBOARD .",
+      "sentence": "CRICKET - AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD .",
+      "gold": "MISC: WORLD SERIES",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "AUSTRALIA BEAT WEST INDIES BY FIVE",
+      "sentence": "CRICKET - AUSTRALIA BEAT WEST INDIES BY FIVE WICKETS .",
+      "gold": "LOC: WEST INDIES",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "CRICKET - WEST INDIES 172 ALL",
+      "sentence": "CRICKET - WEST INDIES 172 ALL OUT IN 49.2 OVERS V AUSTRALIA .",
+      "gold": "LOC: WEST INDIES",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "CRICKET - WEST INDIES TO BAT",
+      "sentence": "CRICKET - WEST INDIES TO BAT AFTER WINNING THE TOSS .",
+      "gold": "LOC: WEST INDIES",
+      "pred": "O",
+      "error_type": "missing_entity"
+    },
+    {
+      "text": "League teams after",
+      "sentence": "League teams after games played on Thursday ( tabulate under",
+      "gold": "ORG: League",
+      "pred": "O",
+      "error_type": "missing_entity"
+    }
+  ],
+  "boundary_errors": [
+    {
+      "text": "SOCCER - JAPAN GET LUCKY",
+      "sentence": "SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",
+      "gold": "LOC: JAPAN",
+      "pred": "PER: JAPAN",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "WIN , CHINA IN SURPRISE",
+      "sentence": "SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",
+      "gold": "PER: CHINA",
+      "pred": "ORG: CHINA",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "corner of Bitar 's goal",
+      "sentence": "Defender Hassan Abbas rose to intercept a long ball into the area in the 84th minute but only managed to divert it into the top corner of Bitar 's goal .",
+      "gold": "PER: Bitar",
+      "pred": "ORG: Bitar",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "Bitar pulled off",
+      "sentence": "Bitar pulled off fine saves whenever they did .",
+      "gold": "PER: Bitar",
+      "pred": "ORG: Bitar",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "UNION - CUTTITTA BACK FOR",
+      "sentence": "RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR .",
+      "gold": "PER: CUTTITTA",
+      "pred": "ORG: CUTTITTA",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "after the 1995 World Cup , where",
+      "sentence": "Cuttitta announced his retirement after the 1995 World Cup , where he took issue with being dropped from the Italy side that faced England in the pool stages .",
+      "gold": "MISC: 1995 World Cup",
+      "pred": "MISC: World Cup",
+      "error_type": "wrong_boundary"
+    },
+    {
+      "text": "GOALS GIVE JAPAN WIN OVER",
+      "sentence": "SOCCER - LATE GOALS GIVE JAPAN WIN OVER SYRIA .",
+      "gold": "LOC: JAPAN",
+      "pred": "ORG: JAPAN",
+      "error_type": "wrong_boundary_and_type"
+    },
+    {
+      "text": "corner of Bitar 's goal",
+      "sentence": "Defender Hassan Abbas rose to intercept a long ball into the area in the 84th minute but only managed to divert it into the top corner of Bitar 's goal .",
+      "gold": "PER: Bitar",
+      "pred": "ORG: Bitar",
+      "error_type": "wrong_boundary_and_type"
+    }
+  ]
+}

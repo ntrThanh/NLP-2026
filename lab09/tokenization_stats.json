@@ -1,0 +1,147 @@
+{
+  "avg_overall_ratio": 1.487,
+  "avg_entity_ratio": 1.5293,
+  "avg_non_entity_ratio": 1.0,
+  "sample_splits": [
+    {
+      "word": "SOCCER",
+      "subwords": [
+        "S",
+        "##OC",
+        "##CE",
+        "##R"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "JAPAN",
+      "subwords": [
+        "J",
+        "##AP",
+        "##AN"
+      ],
+      "tag": "B-LOC"
+    },
+    {
+      "word": "GET",
+      "subwords": [
+        "GE",
+        "##T"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "LUCKY",
+      "subwords": [
+        "L",
+        "##UC",
+        "##K",
+        "##Y"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "WIN",
+      "subwords": [
+        "W",
+        "##IN"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "CHINA",
+      "subwords": [
+        "CH",
+        "##IN",
+        "##A"
+      ],
+      "tag": "B-PER"
+    },
+    {
+      "word": "SURPRISE",
+      "subwords": [
+        "S",
+        "##UR",
+        "##PR",
+        "##IS",
+        "##E"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "DEFEAT",
+      "subwords": [
+        "DE",
+        "##F",
+        "##EA",
+        "##T"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "Nadim",
+      "subwords": [
+        "Na",
+        "##di",
+        "##m"
+      ],
+      "tag": "B-PER"
+    },
+    {
+      "word": "Ladki",
+      "subwords": [
+        "La",
+        "##d",
+        "##ki"
+      ],
+      "tag": "I-PER"
+    },
+    {
+      "word": "AL-AIN",
+      "subwords": [
+        "AL",
+        "-",
+        "AI",
+        "##N"
+      ],
+      "tag": "B-LOC"
+    },
+    {
+      "word": "1996-12-06",
+      "subwords": [
+        "1996",
+        "-",
+        "12",
+        "-",
+        "06"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "2-1",
+      "subwords": [
+        "2",
+        "-",
+        "1"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "2-0",
+      "subwords": [
+        "2",
+        "-",
+        "0"
+      ],
+      "tag": "O"
+    },
+    {
+      "word": "newcomers",
+      "subwords": [
+        "newcomer",
+        "##s"
+      ],
+      "tag": "O"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Model,Precision,Recall,F1,Architecture
+Baseline (Logistic Regression),0.694,0.7408,0.7166,Handcrafted Orthographic Features + SAGA
+Pretrained Transformer (bert-base-cased),0.9054,0.9196,0.9124,BERT-Encoder + Linear Token Classifier
