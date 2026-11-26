@@ -1,0 +1,4 @@
+# Large artefacts kept only on server22
+outputs/**/model/
+outputs/**/*predictions.json
+run_all.log
