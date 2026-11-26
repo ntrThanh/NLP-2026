@@ -1,0 +1,58 @@
+Model: outputs/main/model on cuda
+Document: 1818 characters, 400 tokens (multiple windows at max_length=384, stride=128)
+   The Transformer is a neural network architecture introduced by Vaswani et al. in the 2017 paper "Attention Is All You Need". It replaced recurrence with self-attention, which lets every token attend to every other token in the sequence in parallel. The original model was designed for machine [...]
+Q: Who introduced the Transformer architecture?
+   → 'Vaswani et al.'   (score=17.09, chars 63–77)
+   context: …Transformer is a neural network architecture introduced by [[Vaswani et al.]] in the 2017 paper "Attention Is All You Need". It replaced…
+   alternatives: 'Vaswani et al' (15.4), 'Vaswani' (12.2)
+Q: How many parameters does the base version of BERT have?
+   → '110 million'   (score=19.94, chars 812–823)
+   context: …rsion of BERT has 12 layers, a hidden size of 768 and about [[110 million]] parameters. The Stanford Question Answering Dataset, known…
+   alternatives: 'about 110 million' (17.8), '110 million parameters' (17.3)
+Q: What percentage of input tokens are masked during pre-training?
+   → '15 percent'   (score=16.83, chars 646–656)
+   context: …th two objectives: masked language modeling, in which about [[15 percent]] of the input tokens are masked and must be predicted, and n…
+   alternatives: 'about 15 percent' (15.9), '15' (15.7)
+Q: Which company developed BERT?
+   → 'Google'   (score=13.28, chars 498–504)
+   context: …entations from Transformers, was released by researchers at [[Google]] in 2018. BERT uses only the encoder part of the Transformer…
+   alternatives: 'Google in 2018.' (7.0), 'Google in 2018' (6.7)
+Q: What task was the first Transformer built for?
+   → 'machine translation'   (score=16.29, chars 285–304)
+   context: …e sequence in parallel. The original model was designed for [[machine translation]] and consisted of an encoder and a decoder, each built from…
+   alternatives: 'for machine translation' (11.2), 'The original model was designed for machine translation' (9.9)
+Q: Who wrote the SQuAD questions?
+   → 'crowdworkers'   (score=10.08, chars 1001–1013)
+   context: …d in 2016. It contains more than 100,000 questions posed by [[crowdworkers]] on a set of Wikipedia articles. The answer to every questio…
+   alternatives: 'crowdworkers on a set of Wikipedia' (6.5), 'crowdworkers on a set of Wikipedia articles' (5.3)
+Q: How are QA systems on SQuAD scored?
+   → 'with two metrics: exact match and token-level F1'   (score=7.37, chars 1168–1216)
+   context: …om the corresponding reading passage. Systems are evaluated [[with two metrics: exact match and token-level F1]]. SQuAD 2.0, released in 2018, added over 50,000 unanswerabl…
+   alternatives: 'with two metrics' (7.2), 'exact match and token-level F1' (7.2)
+Q: What did SQuAD 2.0 add?
+   → 'over 50,000 unanswerable questions'   (score=11.70, chars 1253–1287)
+   context: …atch and token-level F1. SQuAD 2.0, released in 2018, added [[over 50,000 unanswerable questions]] written to look similar to answerable ones. To fine-tune B…
+   alternatives: 'over 50,000 unanswerable questions written to look similar to answerable ones' (11.4), '50,000 unanswerable questions' (10.6)
+Q: What determines how much neighbouring windows share?
+   → 'the stride'   (score=9.13, chars 1806–1816)
+   context: …indows, and the overlap is controlled by a parameter called [[the stride]].…
+   alternatives: 'stride' (8.4), 'a parameter called the stride' (8.0)
+Q: Who won the 2018 FIFA World Cup?
+   → 'Google'   (score=-9.79, chars 498–504)
+   context: …entations from Transformers, was released by researchers at [[Google]] in 2018. BERT uses only the encoder part of the Transformer…
+   alternatives: 'BERT, which stands for Bidirectional Encoder Representations from Transformers, was released by researchers at Google' (-10.6), 'Google in 2018. BERT' (-10.7)
+================================================================================
+Question/context lexical matching (Experiment 4 example)
+Context: The capital of France is Paris. The French government is based in Paris.
+Q: What city is the capital of France?
+   → 'Paris'   (score=10.88, chars 25–30)
+   context: …The capital of France is [[Paris]]. The French government is based in Paris.…
+   alternatives: 'The capital of France is Paris' (5.7)
+Q: Where is the French government based?
+   → 'Paris'   (score=11.32, chars 66–71)
+   context: …pital of France is Paris. The French government is based in [[Paris]].…
+   alternatives: 'Paris.' (9.1)
+Q: Which city hosts the French government?
+   → 'Paris'   (score=10.54, chars 66–71)
+   context: …pital of France is Paris. The French government is based in [[Paris]].…
+   alternatives: 'Paris. The French government is based in Paris' (9.5)

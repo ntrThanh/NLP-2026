@@ -1,0 +1,2229 @@
+{
+  "wrong span (no overlap)": [
+    {
+      "id": "5728177f2ca10214002d9db1",
+      "question": "Who created the theme used in 1986?",
+      "golds": [
+        "Dominic Glynn",
+        "Dominic Glynn",
+        "Dominic Glynn's"
+      ],
+      "pred": "Keff McCulloch",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.25,
+      "answer_sentence": "A different arrangement was recorded by Peter Howell for season 18 (1980), which was in turn replaced by Dominic Glynn's arrangement for the season-long serial The Trial of a Time Lord in season 23 (1986).",
+      "pred_start": 206,
+      "gold_start": 105,
+      "context_window": "A different arrangement was recorded by Peter Howell for season 18 (1980), which was in turn replaced by Dominic Glynn's arrangement for the season-long serial The Trial of a Time Lord in season 23 (1986). Keff McCulloch provided the new arrangement for the Seventh Doctor's era which lasted from season 24 (1987) until the series' suspension in 1989. American composer …"
+    },
+    {
+      "id": "56e76f7000c9c71400d77130",
+      "question": "What are upper-level secondary schools called?",
+      "golds": [
+        "Gymnasium",
+        "Gymnasium",
+        "Gymnasium"
+      ],
+      "pred": "Hauptschule",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 1.0,
+      "answer_sentence": "There are many differences between the teachers for elementary schools (Grundschule), lower secondary schools (Hauptschule), middle level secondary schools (Realschule) and higher level secondary schools (Gymnasium).",
+      "pred_start": 251,
+      "gold_start": 345,
+      "context_window": "…tstudien (Teaching Education Studies). There are many differences between the teachers for elementary schools (Grundschule), lower secondary schools (Hauptschule), middle level secondary schools (Realschule) and higher level secondary schools (Gymnasium). Salaries for teachers depend on the civil servants' salary index scale (Bundesbesoldungsordnung)."
+    },
+    {
+      "id": "56bec6ac3aeaaa14008c9400",
+      "question": "What did Marlee Matlin translate?",
+      "golds": [
+        "the national anthem",
+        "the national anthem",
+        "national anthem"
+      ],
+      "pred": "American Sign Language",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",
+      "pred_start": 140,
+      "gold_start": 69,
+      "context_window": "Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation."
+    },
+    {
+      "id": "56e761d037bdd419002c3f15",
+      "question": "What do these teachers NOT do?",
+      "golds": [
+        "teach by rote",
+        "teach by rote",
+        "teach by rote"
+      ],
+      "pred": "attempt to find new invigoration for the course materials",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 1.0,
+      "answer_sentence": "These teachers do not teach by rote but attempt to find new invigoration for the course materials on a daily basis.",
+      "pred_start": 449,
+      "gold_start": 431,
+      "context_window": "… that teachers who have a positive disposition towards the course content tend to transfer their passion to receptive students. These teachers do not teach by rote but attempt to find new invigoration for the course materials on a daily basis. One of the difficulties in this approach is that teachers may have repeatedly covered a curriculum until they begin to feel bored w…"
+    },
+    {
+      "id": "571156152419e3140095559e",
+      "question": "What was the ideal duty of a Newcomen engine?",
+      "golds": [
+        "7 million",
+        "7 million",
+        "7 million"
+      ],
+      "pred": "burning one bushel (94 pounds) of coal",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million.",
+      "pred_start": 280,
+      "gold_start": 378,
+      "context_window": "…rder to illustrate how much more efficient his engines were over the earlier Newcomen designs. Duty is the number of foot-pounds of work delivered by burning one bushel (94 pounds) of coal. The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million. Watt's original low-pressure designs were able to deliver duty as high as 25 million, but averaged about 17. This…"
+    },
+    {
+      "id": "57269424dd62a815002e8a21",
+      "question": "What is defined as the majority vote?",
+      "golds": [
+        "at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU",
+        "74 per cent, or 260 of the 352 votes",
+        "74 per cent, or 260 of the 352 votes",
+        "74 per cent, or 260 of the 352 votes"
+      ],
+      "pred": "consensus",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "TEU article 16(4) and TFEU article 238(3) define this to mean at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU: currently this means around 74 per cent, or 260 of the 352 votes.",
+      "pred_start": 1176,
+      "gold_start": 1249,
+      "context_window": "…ber states are not dominated by larger member states. In total there are 352 votes, but for most acts there must be a qualified majority vote, if not consensus. TEU article 16(4) and TFEU article 238(3) define this to mean at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU: currently this means around 74 per cent, or 260 of the 352 votes. This is critical during the legislative process."
+    },
+    {
+      "id": "5737821cc3c5551400e51f1c",
+      "question": "What type of physics model did Einstein fail to make?",
+      "golds": [
+        "self-consistent unification",
+        "self-consistent unification models",
+        "self-consistent unification",
+        "self-consistent unification models that would combine all four fundamental interactions"
+      ],
+      "pred": "string theory",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.16666666666666666,
+      "answer_sentence": "Physicists are still attempting to develop self-consistent unification models that would combine all four fundamental interactions into a theory of everything.",
+      "pred_start": 1672,
+      "gold_start": 1441,
+      "context_window": "…eories such as supersymmetry proposed to accommodate some of the outstanding unsolved problems in physics. Physicists are still attempting to develop self-consistent unification models that would combine all four fundamental interactions into a theory of everything. Einstein tried and failed at this endeavor, but currently the most popular approach to answering this question is string theory.:212–219"
+    },
+    {
+      "id": "57337ddc4776f41900660bbd",
+      "question": "How many lakes are there in Warsaw?",
+      "golds": [
+        "several",
+        "several",
+        "several"
+      ],
+      "pred": "13",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 1.0,
+      "answer_sentence": "There are also several lakes in Warsaw – mainly the oxbow lakes, like Czerniaków Lake, the lakes in the Łazienki or Wilanów Parks, Kamionek Lake.",
+      "pred_start": 10,
+      "gold_start": 346,
+      "context_window": "There are 13 natural reserves in Warsaw – among others, Bielany Forest, Kabaty Woods, Czerniaków Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw – mainly the oxbow lakes, like Czerniaków Lake, the lakes in the Łazienki or Wilanów Parks, Kamionek Lake. There are lot of small lak…"
+    },
+    {
+      "id": "57293d6d1d046914007791b8",
+      "question": "How many lead authors does an IPCC report chapter have?",
+      "golds": [
+        "ten to fifteen",
+        "ten to fifteen",
+        "ten to fifteen"
+      ],
+      "pred": "two",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6,
+      "answer_sentence": "A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\".",
+      "pred_start": 119,
+      "gold_start": 152,
+      "context_window": "Each chapter has a number of authors who are responsible for writing and editing the material. A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\". The coordinating lead authors are responsible for assembling the contribution…"
+    },
+    {
+      "id": "572973f76aef051400154f0d",
+      "question": "Besides 1,3 and 7, what other number must all primes greater than 5 end with?",
+      "golds": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "pred": "0 or 5",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 0.6363636363636364,
+      "answer_sentence": "Similarly, when written in the usual decimal system, all prime numbers larger than 5 end in 1, 3, 7, or 9, since even numbers are multiples of 2 and numbers ending in 0 or 5 are multiples of 5.",
+      "pred_start": 506,
+      "gold_start": 443,
+      "context_window": "…me refers to any prime number greater than 2. Similarly, when written in the usual decimal system, all prime numbers larger than 5 end in 1, 3, 7, or 9, since even numbers are multiples of 2 and numbers ending in 0 or 5 are multiples of 5."
+    }
+  ],
+  "wrong end — too long": [
+    {
+      "id": "573027d6a23a5019007fcea1",
+      "question": "What did the NIF try to unify Islamist opposition against?",
+      "golds": [
+        "American attack on Iraq",
+        "the American attack on Iraq",
+        "American attack on Iraq"
+      ],
+      "pred": "American attack on Iraq in the 1991 Gulf War",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "The NIF regime also harbored Osama bin Laden for a time (before 9/11), and worked to unify Islamist opposition to the American attack on Iraq in the 1991 Gulf War.",
+      "pred_start": 598,
+      "gold_start": 598,
+      "context_window": "… southern Sudan, once in power. The NIF regime also harbored Osama bin Laden for a time (before 9/11), and worked to unify Islamist opposition to the American attack on Iraq in the 1991 Gulf War."
+    },
+    {
+      "id": "57115ac550c2381900b54a78",
+      "question": "What type of steam engines produced most power up to the early 20th century?",
+      "golds": [
+        "Reciprocating piston",
+        "steam turbines",
+        "electric motors and internal combustion",
+        "Reciprocating piston type"
+      ],
+      "pred": "Reciprocating piston type steam engines",
+      "em": 0.0,
+      "f1": 0.7499999999999999,
+      "category": "wrong end — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.7,
+      "answer_sentence": "Reciprocating piston type steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines in commercial usage, and the ascendancy of steam turbines in power generation.",
+      "pred_start": 0,
+      "gold_start": 0,
+      "context_window": "Reciprocating piston type steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gr…"
+    },
+    {
+      "id": "5728eb1a3acd2414000e01c5",
+      "question": "What do some civil disobedient people feel the need to acknowledge.",
+      "golds": [
+        "accept punishment",
+        "accept punishment",
+        "punishment",
+        "punishment",
+        "punishment"
+      ],
+      "pred": "punishment because of their belief in the validity of the social contract",
+      "em": 0.0,
+      "f1": 0.18181818181818182,
+      "category": "wrong end — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5714285714285714,
+      "answer_sentence": "Some civil disobedients feel it is incumbent upon them to accept punishment because of their belief in the validity of the social contract, which is held to bind all to obey the laws that a government meeting certain standards of legitimacy has established, or else suffer the penalties set out in the law.",
+      "pred_start": 65,
+      "gold_start": 65,
+      "context_window": "Some civil disobedients feel it is incumbent upon them to accept punishment because of their belief in the validity of the social contract, which is held to bind all to obey the laws that a government meeting certain standards of legitimacy has established, or else suffer the penalties s…"
+    },
+    {
+      "id": "57264228ec44d21400f3dcf8",
+      "question": "Telnet Used what  Interface technology",
+      "golds": [
+        "host interface to X.25 and the terminal interface to X.29",
+        "X.25",
+        "ARPANET"
+      ],
+      "pred": "ARPANET technology",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "7+",
+      "lex_overlap": 0.5,
+      "answer_sentence": "It initially used ARPANET technology but changed the host interface to X.25 and the terminal interface to X.29.",
+      "pred_start": 391,
+      "gold_start": 391,
+      "context_window": "…t the monopoly's reaction was that this was incompatible with their future. Bolt, Beranack and Newman (BBN) provided the financing. It initially used ARPANET technology but changed the host interface to X.25 and the terminal interface to X.29. Telenet designed these protocols and helped standardize them in the CCITT.…"
+    },
+    {
+      "id": "5733db8dd058e614000b6428",
+      "question": "What was extent of Celeron's expedition?",
+      "golds": [
+        "about 3,000 miles (4,800 km) between June and November 1749.",
+        "about 3,000 miles",
+        "3,000 miles",
+        "3,000 miles",
+        "3,000 miles"
+      ],
+      "pred": "3,000 miles (4,800 km)",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "7+",
+      "lex_overlap": 0.5,
+      "answer_sentence": "The expedition covered about 3,000 miles (4,800 km) between June and November 1749.",
+      "pred_start": 116,
+      "gold_start": 116,
+      "context_window": "Céloron's expedition force consisted of about 200 Troupes de la marine and 30 Indians. The expedition covered about 3,000 miles (4,800 km) between June and November 1749. It went up the St. Lawrence, continued along the northern shore of Lake Ontario, crossed the portage at Niagara, and …"
+    },
+    {
+      "id": "5705e3f252bb89140068966a",
+      "question": "Which coastline does Southern California touch?",
+      "golds": [
+        "Pacific",
+        "Pacific",
+        "Pacific"
+      ],
+      "pred": "Pacific coast",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Southern California includes the heavily built-up urban area stretching along the Pacific coast from Ventura, through the Greater Los Angeles Area and the Inland Empire, and down to Greater San Diego.",
+      "pred_start": 82,
+      "gold_start": 82,
+      "context_window": "Southern California includes the heavily built-up urban area stretching along the Pacific coast from Ventura, through the Greater Los Angeles Area and the Inland Empire, and down to Greater San Diego. Southern California's population encompasses…"
+    },
+    {
+      "id": "5733e771d058e614000b6547",
+      "question": "What issues were not addressed in the Treaty of Aix-la-Chapelle?",
+      "golds": [
+        "conflicting territorial claims between British and French",
+        "conflicting territorial claims between British and French colonies in North America",
+        "conflicting territorial claims between British and French colonies in North America",
+        "conflicting territorial claims",
+        "The issues of conflicting territorial claims between British and French colonies"
+      ],
+      "pred": "conflicting territorial claims between British and French colonies",
+      "em": 0.0,
+      "f1": 0.9333333333333333,
+      "category": "wrong end — too long",
+      "len_bucket": "7+",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "The issues of conflicting territorial claims between British and French colonies in North America were turned over to a commission to resolve, but it reached no decision.",
+      "pred_start": 248,
+      "gold_start": 248,
+      "context_window": "…rmally ended in 1748 with the signing of the Treaty of Aix-la-Chapelle. The treaty was primarily focused on resolving issues in Europe. The issues of conflicting territorial claims between British and French colonies in North America were turned over to a commission to resolve, but it reached no decision. Frontiers from between Nova Scotia and Acadia in the north,…"
+    },
+    {
+      "id": "573005b9947a6a140053cf6c",
+      "question": "Secular Arab nationalism was blamed for both the defeat of Arab troops as well as what type of stagnation?",
+      "golds": [
+        "economic",
+        "economic stagnation",
+        "economic"
+      ],
+      "pred": "economic stagnation in the defeated countries, was blamed on the secular",
+      "em": 0.0,
+      "f1": 0.3636363636363636,
+      "category": "wrong end — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.6,
+      "answer_sentence": "The defeat along with economic stagnation in the defeated countries, was blamed on the secular Arab nationalism of the ruling regimes.",
+      "pred_start": 166,
+      "gold_start": 166,
+      "context_window": "…cisive defeat of the Arab troops during the Six-Day War by Israeli troops constituted a pivotal event in the Arab Muslim world. The defeat along with economic stagnation in the defeated countries, was blamed on the secular Arab nationalism of the ruling regimes. A steep and steady decline in the popularity and credibility of secular, socialist and nationalist politics e…"
+    },
+    {
+      "id": "5725cbb289a1e219009abed4",
+      "question": "What was believed to be the cause of devastation to the civilization?",
+      "golds": [
+        "diseases from Europe",
+        "the spread of diseases from Europe",
+        "spread of diseases from Europe"
+      ],
+      "pred": "spread of diseases from Europe, such as smallpox",
+      "em": 0.0,
+      "f1": 0.7692307692307693,
+      "category": "wrong end — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "It is believed that the civilization was later devastated by the spread of diseases from Europe, such as smallpox.",
+      "pred_start": 389,
+      "gold_start": 385,
+      "context_window": "… observations that a complex civilization was flourishing along the Amazon in the 1540s. It is believed that the civilization was later devastated by the spread of diseases from Europe, such as smallpox. Since the 1970s, numerous geoglyphs have been discovered on deforested land dating between AD 0–1250, furthering claims about Pre-Columbian civiliza…"
+    },
+    {
+      "id": "572906e23f37b31900477f90",
+      "question": "When did Kenya become an independent country?",
+      "golds": [
+        "1963",
+        "Kenya Independence Act",
+        "1963"
+      ],
+      "pred": "Kenya Independence Act 1963",
+      "em": 0.0,
+      "f1": 0.8571428571428571,
+      "category": "wrong end — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.75,
+      "answer_sentence": "In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom.",
+      "pred_start": 787,
+      "gold_start": 787,
+      "context_window": "… the Protectorate of Kenya so that all of Kenya would be one sovereign, independent state. In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom. Exactly 12 months later on 12 December 1964, Kenya became a republic under the name \"Republic of Kenya\"."
+    }
+  ],
+  "both wrong — covers gold (over-extended)": [
+    {
+      "id": "572faf74b2c2fd1400568347",
+      "question": "Where was Parliament's temporary home whilst the permanent building was being built?",
+      "golds": [
+        "General Assembly Hall of the Church of Scotland",
+        "General Assembly Hall of the Church of Scotland",
+        "the General Assembly Hall of the Church of Scotland"
+      ],
+      "pred": "Holyrood was being constructed, the Parliament's temporary home was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh",
+      "em": 0.0,
+      "f1": 0.5185185185185185,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.8333333333333334,
+      "answer_sentence": "Whilst the permanent building at Holyrood was being constructed, the Parliament's temporary home was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh.",
+      "pred_start": 33,
+      "gold_start": 105,
+      "context_window": "Whilst the permanent building at Holyrood was being constructed, the Parliament's temporary home was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh. Official photographs and television interviews were held in the courtyard adjoining the Assembly Hall, which is part of the School of Divinity of th…"
+    },
+    {
+      "id": "56e7550700c9c71400d76fca",
+      "question": "What type of parenting role does a teacher take on?",
+      "golds": [
+        "surrogate",
+        "surrogate",
+        "surrogate",
+        "surrogate"
+      ],
+      "pred": "specialist teacher and surrogate parent",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "1",
+      "lex_overlap": 0.4,
+      "answer_sentence": "The relationship between children and their teachers tends to be closer in the primary school where they act as form tutor, specialist teacher and surrogate parent during the course of the day.",
+      "pred_start": 543,
+      "gold_start": 566,
+      "context_window": "… more different teachers. The relationship between children and their teachers tends to be closer in the primary school where they act as form tutor, specialist teacher and surrogate parent during the course of the day."
+    },
+    {
+      "id": "56e7542f00c9c71400d76fbf",
+      "question": "What would a teacher do for someone who is cocky?",
+      "golds": [
+        "deflate",
+        "deflate",
+        "deflate"
+      ],
+      "pred": "pressure the lazy, inspire the bored, deflate the cocky",
+      "em": 0.0,
+      "f1": 0.2857142857142857,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "1",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "The function of the teacher is to pressure the lazy, inspire the bored, deflate the cocky, encourage the timid, detect and correct individual flaws, and broaden the viewpoint of all.",
+      "pred_start": 864,
+      "gold_start": 902,
+      "context_window": "…: \"The real bulk of learning takes place in self-study and problem solving with a lot of feedback around that loop. The function of the teacher is to pressure the lazy, inspire the bored, deflate the cocky, encourage the timid, detect and correct individual flaws, and broaden the viewpoint of all. This function looks like that of a coach using the whole…"
+    },
+    {
+      "id": "570d3468b3d812140066d543",
+      "question": "What type of manufacturing plant is Victoria soon losing?",
+      "golds": [
+        "major car brands",
+        "major car brands",
+        "car"
+      ],
+      "pred": "global car industry",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Historically, Victoria has been the base for the manufacturing plants of the major car brands Ford, Toyota and Holden; however, closure announcements by all three companies in the 21st century will mean that Australia will no longer be a base for the global car industry, with Toyota's statement in February 2014 outlining a closure year of 2017.",
+      "pred_start": 251,
+      "gold_start": 258,
+      "context_window": "…oyota and Holden; however, closure announcements by all three companies in the 21st century will mean that Australia will no longer be a base for the global car industry, with Toyota's statement in February 2014 outlining a closure year of 2017. Holden's announcement occurred in May 2013, followed by Ford's decision i…"
+    },
+    {
+      "id": "56e1b00ce3433e140042309f",
+      "question": "What are two factors that directly effect how powerful a Turing machine may or may not be?",
+      "golds": [
+        "time or space",
+        "time or space",
+        "time or space"
+      ],
+      "pred": "when resources (such as time or space) are bounded",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.14285714285714285,
+      "answer_sentence": "They are all equally powerful in principle, but when resources (such as time or space) are bounded, some of these may be more powerful than others.",
+      "pred_start": 306,
+      "gold_start": 330,
+      "context_window": "… Turing machines, quantum Turing machines, symmetric Turing machines and alternating Turing machines. They are all equally powerful in principle, but when resources (such as time or space) are bounded, some of these may be more powerful than others."
+    },
+    {
+      "id": "573010fab2c2fd14005687d9",
+      "question": "What did Saudi Arabia try to repress to compensate for its loss of stature? ",
+      "golds": [
+        "domestic Islamists",
+        "domestic Islamists",
+        "domestic Islamists"
+      ],
+      "pred": "those domestic Islamists who attacked it",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5714285714285714,
+      "answer_sentence": "Saudi Arabia attempted to compensate for its loss of prestige among these groups by repressing those domestic Islamists who attacked it (bin Laden being a prime example), and increasing aid to Islamic groups (Islamist madrassas around the world and even aiding some violent Islamist groups) that did not, but its pre-war influence on behalf of moderation was greatly reduced.",
+      "pred_start": 344,
+      "gold_start": 350,
+      "context_window": "… with the Palestinian-Israeli peace process developed. Saudi Arabia attempted to compensate for its loss of prestige among these groups by repressing those domestic Islamists who attacked it (bin Laden being a prime example), and increasing aid to Islamic groups (Islamist madrassas around the world and even aiding some violent Islamist gr…"
+    },
+    {
+      "id": "56e122dacd28a01900c6763a",
+      "question": "What was his belief as to what nature was supposed to be?",
+      "golds": [
+        "ruthless",
+        "ruthless",
+        "ruthless workings"
+      ],
+      "pred": "humans' \"pity\" had interfered with the natural \"ruthless workings of nature",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "1",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "His opinion stemmed from the belief that humans' \"pity\" had interfered with the natural \"ruthless workings of nature,\" rather than from conceptions of a \"master race\" or inherent superiority of one person over another.",
+      "pred_start": 143,
+      "gold_start": 191,
+      "context_window": "Tesla, like many of his era, became a proponent of an imposed selective breeding version of eugenics. His opinion stemmed from the belief that humans' \"pity\" had interfered with the natural \"ruthless workings of nature,\" rather than from conceptions of a \"master race\" or inherent superiority of one person over another. His advocacy of it was, however, to push it fur…"
+    },
+    {
+      "id": "56f8575aaef2371900625ffd",
+      "question": "When did Luther and his wife live?",
+      "golds": [
+        "The Black Cloister",
+        "The Black Cloister",
+        ", \"The Black Cloister,\""
+      ],
+      "pred": "moved into a former monastery, \"The Black Cloister,\" a wedding present from the new elector John the Steadfast (1525",
+      "em": 0.0,
+      "f1": 0.25,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Luther and his wife moved into a former monastery, \"The Black Cloister,\" a wedding present from the new elector John the Steadfast (1525–32).",
+      "pred_start": 20,
+      "gold_start": 52,
+      "context_window": "Luther and his wife moved into a former monastery, \"The Black Cloister,\" a wedding present from the new elector John the Steadfast (1525–32). They embarked on what appeared to have been a happy and successful marriage, though money was often short. Between bearing six children, Hans – …"
+    },
+    {
+      "id": "572a1f086aef0514001552c0",
+      "question": "When economic inequality is smaller, more waste and pollution is?",
+      "golds": [
+        "created",
+        "created",
+        "created",
+        "created"
+      ],
+      "pred": "The smaller the economic inequality, the more waste and pollution is created, resulting in many cases, in more environmental degradation",
+      "em": 0.0,
+      "f1": 0.1111111111111111,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "1",
+      "lex_overlap": 1.0,
+      "answer_sentence": "The smaller the economic inequality, the more waste and pollution is created, resulting in many cases, in more environmental degradation.",
+      "pred_start": 0,
+      "gold_start": 69,
+      "context_window": "The smaller the economic inequality, the more waste and pollution is created, resulting in many cases, in more environmental degradation. This can be explained by the fact that as the poor people in the society become more wealthy, it increases their yearly carbon emissions. This relat…"
+    },
+    {
+      "id": "5728facd4b864d1900165171",
+      "question": "What is a secondary goal of pleading not guilty?",
+      "golds": [
+        "use the proceedings as a forum",
+        "use the proceedings as a forum to inform the jury and the public of the political circumstances",
+        "win an acquittal and avoid imprisonment",
+        "use the proceedings as a forum to inform the jury and the public of the political circumstances",
+        "use the proceedings as a forum to inform the jury and the public of the political circumstances surrounding the case"
+      ],
+      "pred": "to win an acquittal and avoid imprisonment or a fine",
+      "em": 0.0,
+      "f1": 0.7692307692307693,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.75,
+      "answer_sentence": "Steven Barkan writes that if defendants plead not guilty, \"they must decide whether their primary goal will be to win an acquittal and avoid imprisonment or a fine, or to use the proceedings as a forum to inform the jury and the public of the political circumstances surrounding the case and their reasons for breaking the law via civil disobedience.\" A technical defense may enhance the chances for acquittal but make for more boring proceedings and reduced press coverage.",
+      "pred_start": 111,
+      "gold_start": 114,
+      "context_window": "Steven Barkan writes that if defendants plead not guilty, \"they must decide whether their primary goal will be to win an acquittal and avoid imprisonment or a fine, or to use the proceedings as a forum to inform the jury and the public of the political circumstances surrounding the case and their reasons for bre…"
+    }
+  ],
+  "wrong start — too long": [
+    {
+      "id": "56f86966aef2371900626056",
+      "question": "How did Luther show the Trinity in his catechisms?",
+      "golds": [
+        "as persons",
+        "persons to be known.",
+        "Father, the Son, or the Holy Spirit."
+      ],
+      "pred": "not as a doctrine to be learned, but as persons to be known",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "wrong start — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "That is, Luther depicted the Trinity not as a doctrine to be learned, but as persons to be known.",
+      "pred_start": 585,
+      "gold_start": 625,
+      "context_window": "…a personal object of the work of the three persons of the Trinity, each of which works in the catechumen's life. That is, Luther depicted the Trinity not as a doctrine to be learned, but as persons to be known. The Father creates, the Son redeems, and the Spirit sanctifies, a divine unity with separate personalities. Salvation originates with the Father and …"
+    },
+    {
+      "id": "5705f36452bb89140068971b",
+      "question": "Which mountain range influenced the split of the regions?",
+      "golds": [
+        "Tehachapis",
+        "the Tehachapis",
+        "Tehachapis"
+      ],
+      "pred": "South of the Tehachapis",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "wrong start — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.6,
+      "answer_sentence": "Another influence is the geographical phrase South of the Tehachapis, which would split the southern region off at the crest of that transverse range, but in that definition, the desert portions of north Los Angeles County and eastern Kern and San Bernardino Counties would be included in the southern California region due to their remoteness from the central valley and interior desert landscape.",
+      "pred_start": 525,
+      "gold_start": 538,
+      "context_window": "…bership apply, as either northern or southern California, in contrast to the three-region point of view. Another influence is the geographical phrase South of the Tehachapis, which would split the southern region off at the crest of that transverse range, but in that definition, the desert portions of north Los Angeles Co…"
+    },
+    {
+      "id": "571cc8815efbb31900334df0",
+      "question": "Why do polar water bodies support a higher amount of life?",
+      "golds": [
+        "higher oxygen content",
+        "higher oxygen content",
+        "higher oxygen content",
+        "higher oxygen content",
+        "due to their higher oxygen content"
+      ],
+      "pred": "their higher oxygen content",
+      "em": 0.0,
+      "f1": 0.8571428571428571,
+      "category": "wrong start — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5714285714285714,
+      "answer_sentence": "The increased solubility of O\n2 at lower temperatures (see Physical properties) has important implications for ocean life, as polar oceans support a much higher density of life due to their higher oxygen content.",
+      "pred_start": 249,
+      "gold_start": 255,
+      "context_window": "… lower temperatures (see Physical properties) has important implications for ocean life, as polar oceans support a much higher density of life due to their higher oxygen content. Water polluted with plant nutrients such as nitrates or phosphates may stimulate growth of algae by a process called eutrophication and the decay of…"
+    },
+    {
+      "id": "56e748a200c9c71400d76f37",
+      "question": "What factor may make a teacher's role vary?",
+      "golds": [
+        "cultures",
+        "cultures",
+        "cultures"
+      ],
+      "pred": "among cultures",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong start — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.5,
+      "answer_sentence": "A teacher's role may vary among cultures.",
+      "pred_start": 26,
+      "gold_start": 32,
+      "context_window": "A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or lif…"
+    },
+    {
+      "id": "570d418dfed7b91900d45dc0",
+      "question": "What is the upper house of the Parliament of Victoria called?",
+      "golds": [
+        "Legislative Council",
+        "the Legislative Council",
+        "Legislative Council"
+      ],
+      "pred": "Legislative Assembly (the lower house) and the Legislative Council",
+      "em": 0.0,
+      "f1": 0.4444444444444445,
+      "category": "wrong start — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 1.0,
+      "answer_sentence": "At state level, the Parliament of Victoria consists of the Legislative Assembly (the lower house) and the Legislative Council (the upper house).",
+      "pred_start": 176,
+      "gold_start": 223,
+      "context_window": "…37 seats in the Australian House of Representatives and 12 seats in the Australian Senate. At state level, the Parliament of Victoria consists of the Legislative Assembly (the lower house) and the Legislative Council (the upper house). Victoria is currently governed by the Labor Party, with Daniel Andrews the current Premier. The personal representative of the Que…"
+    },
+    {
+      "id": "5729517d6aef051400154cc9",
+      "question": "What can the IPCC's report deadlines cause to be omitted?",
+      "golds": [
+        "significant new evidence or events that change our understanding of climate science",
+        "significant new evidence or events that change our understanding",
+        "significant new evidence or events that change our understanding of climate science"
+      ],
+      "pred": "any significant new evidence or events that change our understanding of climate science",
+      "em": 0.0,
+      "f1": 0.9600000000000001,
+      "category": "wrong start — too long",
+      "len_bucket": "7+",
+      "lex_overlap": 0.25,
+      "answer_sentence": "In principle, this means that any significant new evidence or events that change our understanding of climate science between this deadline and publication of an IPCC report cannot be included.",
+      "pred_start": 307,
+      "gold_start": 311,
+      "context_window": "…bodies, and its schedule for producing reports requires a deadline for submissions prior to the report's final release. In principle, this means that any significant new evidence or events that change our understanding of climate science between this deadline and publication of an IPCC report cannot be included. In an area of science where our scientific understanding is rapidly chang…"
+    },
+    {
+      "id": "572ff760b2c2fd1400568679",
+      "question": "What is the goal of Islamist groups like Hezbollah and Hamas?",
+      "golds": [
+        "abolish the state of Israel",
+        "abolish the state of Israel",
+        "abolish the state of Israel"
+      ],
+      "pred": "to abolish the state of Israel",
+      "em": 0.0,
+      "f1": 0.888888888888889,
+      "category": "wrong start — too long",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.8333333333333334,
+      "answer_sentence": "The Islamist groups like Hezbollah in Lebanon and Hamas in Palestine participate in democratic and political process as well as armed attacks, seeking to abolish the state of Israel.",
+      "pred_start": 453,
+      "gold_start": 456,
+      "context_window": "…he Islamist groups like Hezbollah in Lebanon and Hamas in Palestine participate in democratic and political process as well as armed attacks, seeking to abolish the state of Israel. Radical Islamist organizations like al-Qaeda and the Egyptian Islamic Jihad, and groups such as the Taliban, entirely reject democracy, often declar…"
+    },
+    {
+      "id": "56bec2013aeaaa14008c9375",
+      "question": "What version of Windows supported the CBS sports app?",
+      "golds": [
+        "10",
+        "10",
+        "10"
+      ],
+      "pred": "Windows 10",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong start — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.5,
+      "answer_sentence": "CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku).",
+      "pred_start": 96,
+      "gold_start": 104,
+      "context_window": "CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). Due to Verizon Communications exclusivity, streaming on smartphones was only…"
+    },
+    {
+      "id": "572647e2dd62a815002e805d",
+      "question": "What did NSFNET promote",
+      "golds": [
+        "advanced research and education networking in the United States",
+        "advanced research and education networking",
+        "advanced research and education networking"
+      ],
+      "pred": "to promote advanced research and education networking in the United States",
+      "em": 0.0,
+      "f1": 0.888888888888889,
+      "category": "wrong start — too long",
+      "len_bucket": "7+",
+      "lex_overlap": 1.0,
+      "answer_sentence": "The National Science Foundation Network (NSFNET) was a program of coordinated, evolving projects sponsored by the National Science Foundation (NSF) beginning in 1985 to promote advanced research and education networking in the United States.",
+      "pred_start": 166,
+      "gold_start": 177,
+      "context_window": "…ence Foundation Network (NSFNET) was a program of coordinated, evolving projects sponsored by the National Science Foundation (NSF) beginning in 1985 to promote advanced research and education networking in the United States. NSFNET was also the name given to several nationwide backbone networks operating at speeds of 56 kbit/s, 1.5 Mbit/s (T1), and 45 Mbit/s (T3) that we…"
+    },
+    {
+      "id": "5728ebcb3acd2414000e01dc",
+      "question": "Which reason is given sometimes to plead not guilty involving these matters?",
+      "golds": [
+        "Guilt implies wrong-doing",
+        "Guilt implies wrong-doing",
+        "guilty of doing no wrong",
+        "Guilt implies wrong-doing",
+        "I may have violated some specific laws, but I am guilty of doing no wrong",
+        "I may have violated some specific laws, but I am guilty of doing no wrong"
+      ],
+      "pred": "I am guilty of doing no wrong",
+      "em": 0.0,
+      "f1": 0.8333333333333333,
+      "category": "wrong start — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.2857142857142857,
+      "answer_sentence": "I feel I did the right thing by violating this particular law; I am guilty as charged,\" but that pleading not guilty sends a message of, \"Guilt implies wrong-doing.",
+      "pred_start": 876,
+      "gold_start": 881,
+      "context_window": "…but that pleading not guilty sends a message of, \"Guilt implies wrong-doing. I feel I have done no wrong. I may have violated some specific laws, but I am guilty of doing no wrong. I therefore plead not guilty.\" A plea of no contest is sometimes regarded as a compromise between the two. One defendant accused of illegally protes…"
+    }
+  ],
+  "wrong end — too short": [
+    {
+      "id": "5726f2375951b619008f8310",
+      "question": "What fields may pharmacy informatics also work in?",
+      "golds": [
+        "information technology departments or for healthcare information technology vendor companies",
+        "information technology departments or for healthcare information technology vendor companies",
+        "information technology departments or for healthcare information technology vendor companies"
+      ],
+      "pred": "information technology departments",
+      "em": 0.0,
+      "f1": 0.4615384615384615,
+      "category": "wrong end — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Pharmacy informaticists work in many practice areas of pharmacy, however, they may also work in information technology departments or for healthcare information technology vendor companies.",
+      "pred_start": 198,
+      "gold_start": 198,
+      "context_window": "…acy practice science and applied information science. Pharmacy informaticists work in many practice areas of pharmacy, however, they may also work in information technology departments or for healthcare information technology vendor companies. As a practice area and specialist domain, pharmacy informatics is growing quickly to meet the needs of major national and international patient info…"
+    },
+    {
+      "id": "570d2f5bfed7b91900d45cd2",
+      "question": "What are the exceptions in the constitution  that require special considerations to amend?",
+      "golds": [
+        "\"entrenched\" provisions",
+        "certain \"entrenched\" provisions",
+        "\"entrenched\" provisions"
+      ],
+      "pred": "\"entrenched\"",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "The Victorian Constitution can be amended by the Parliament of Victoria, except for certain \"entrenched\" provisions that require either an absolute majority in both houses, a three-fifths majority in both houses, or the approval of the Victorian people in a referendum, depending on the provision.",
+      "pred_start": 380,
+      "gold_start": 380,
+      "context_window": "…aking body for matters coming under state responsibility. The Victorian Constitution can be amended by the Parliament of Victoria, except for certain \"entrenched\" provisions that require either an absolute majority in both houses, a three-fifths majority in both houses, or the approval of the Victorian people in a referen…"
+    },
+    {
+      "id": "57277bfc708984140094ded9",
+      "question": "What broadcast group is the largest operator of ABC stations?",
+      "golds": [
+        "Sinclair Broadcast Group",
+        "Sinclair Broadcast Group",
+        "Sinclair Broadcast Group"
+      ],
+      "pred": "Sinclair",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "The Sinclair Broadcast Group is the largest operator of ABC stations by numerical total, owning or providing services to 28 ABC affiliates and two additional subchannel-only affiliates; Sinclair owns the largest ABC subchannel affiliate by market size, WABM-DT2/WDBB-DT2 in the Birmingham market, which serve as repeaters of WBMA-LD (the largest low-power \"Big Four\" affiliate by market size, which itself is also simulcast on a subchannel of former WBMA satellite WGWW, owned by Sinclair partner company Howard Stirk Holdings).",
+      "pred_start": 4,
+      "gold_start": 4,
+      "context_window": "The Sinclair Broadcast Group is the largest operator of ABC stations by numerical total, owning or providing services to 28 ABC affiliates and two additional subchannel-only affi…"
+    },
+    {
+      "id": "57291dfaaf94a219006aa09b",
+      "question": "Where does the largest part of Kenya's power come from?",
+      "golds": [
+        "hydroelectric stations at dams",
+        "hydroelectric stations at dams",
+        "dams"
+      ],
+      "pred": "hydroelectric stations",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.5,
+      "answer_sentence": "The largest share of Kenya's electricity supply comes from hydroelectric stations at dams along the upper Tana River, as well as the Turkwel Gorge Dam in the west.",
+      "pred_start": 59,
+      "gold_start": 59,
+      "context_window": "The largest share of Kenya's electricity supply comes from hydroelectric stations at dams along the upper Tana River, as well as the Turkwel Gorge Dam in the west. A petroleum-fired plant on the coast, geothermal facilities at Olkaria (nea…"
+    },
+    {
+      "id": "5726f36cdd62a815002e9602",
+      "question": "Besides drugs, what else do specialty pharmacies provide?",
+      "golds": [
+        "lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs",
+        "lab monitoring, adherence counseling, and assist patients with cost-containment strategies",
+        "lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs"
+      ],
+      "pred": "lab monitoring, adherence counseling",
+      "em": 0.0,
+      "f1": 0.5714285714285715,
+      "category": "wrong end — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "In addition to supplying these drugs, specialty pharmacies also provide lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs.",
+      "pred_start": 519,
+      "gold_start": 519,
+      "context_window": "…e properly stored, administered, carefully monitored, and clinically managed. In addition to supplying these drugs, specialty pharmacies also provide lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs. It is currently the fastest growing sector of the pharmaceutical industry with 19 of 28 newly FDA a…"
+    },
+    {
+      "id": "5729f39a6aef05140015514c",
+      "question": "What kind of T cells kill cells that are infected with pathogens?",
+      "golds": [
+        "Killer T cells",
+        "Killer T",
+        "Killer T cells"
+      ],
+      "pred": "Killer",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.8333333333333334,
+      "answer_sentence": "Killer T cells are a sub-group of T cells that kill cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional.",
+      "pred_start": 0,
+      "gold_start": 0,
+      "context_window": "Killer T cells are a sub-group of T cells that kill cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional. As …"
+    },
+    {
+      "id": "572815d9ff5b5019007d9cbf",
+      "question": "What drew would-be Jacksonville tourists to other Florida destinations?",
+      "golds": [
+        "extension of the Florida East Coast Railway further south",
+        "Florida East Coast Railway",
+        "the Florida East Coast Railway"
+      ],
+      "pred": "extension of the Florida East Coast Railway",
+      "em": 0.0,
+      "f1": 0.8571428571428571,
+      "category": "wrong end — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "In addition, extension of the Florida East Coast Railway further south drew visitors to other areas.",
+      "pred_start": 505,
+      "gold_start": 505,
+      "context_window": "…te as a worthy place for tourism. The city's tourism, however, was dealt major blows in the late 19th century by yellow fever outbreaks. In addition, extension of the Florida East Coast Railway further south drew visitors to other areas. From 1893 to 1938 Jacksonville was the site of the Florida Old Confederate Soldiers and Sailors Home with a nearby ceme…"
+    },
+    {
+      "id": "5727f8342ca10214002d9a7d",
+      "question": "What new series continues the plot of the original Doctor Who?",
+      "golds": [
+        "The 2005 version",
+        "The 2005 version of Doctor Who",
+        "The 2005 version of Doctor Who"
+      ],
+      "pred": "2005",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "The 2005 version of Doctor Who is a direct plot continuation of the original 1963–1989 series[note 2] and the 1996 telefilm.",
+      "pred_start": 4,
+      "gold_start": 0,
+      "context_window": "The 2005 version of Doctor Who is a direct plot continuation of the original 1963–1989 series[note 2] and the 1996 telefilm. This is similar to the 1988 continuation …"
+    },
+    {
+      "id": "56de11154396321400ee25aa",
+      "question": "What were the origins of the Raouliii family?",
+      "golds": [
+        "Norman mercenary",
+        "an Italo-Norman named Raoul",
+        "descended from an Italo-Norman named Raoul"
+      ],
+      "pred": "Italo-Norman",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors.",
+      "pred_start": 220,
+      "gold_start": 217,
+      "context_window": "…n during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who serve…"
+    },
+    {
+      "id": "5729714daf94a219006aa431",
+      "question": "How big are phycobilisomes?",
+      "golds": [
+        "about 40 nanometers across",
+        "about 40 nanometers across",
+        "40 nanometers across"
+      ],
+      "pred": "40 nanometers",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong end — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Phycobilins often organize into relatively large protein complexes about 40 nanometers across called phycobilisomes.",
+      "pred_start": 305,
+      "gold_start": 305,
+      "context_window": "… though phycoerytherin is one of the pigments that makes many red algae red. Phycobilins often organize into relatively large protein complexes about 40 nanometers across called phycobilisomes. Like photosystem I and ATP synthase, phycobilisomes jut into the stroma, preventing thylakoid stacking in red algal chloroplas…"
+    }
+  ],
+  "wrong start — too short": [
+    {
+      "id": "57267d52708984140094c7da",
+      "question": "How do structural geologists observe the fabric within the rocks?",
+      "golds": [
+        "microscopic analysis of oriented thin sections",
+        "microscopic analysis",
+        "use microscopic analysis of oriented thin sections of geologic samples"
+      ],
+      "pred": "microscopic analysis of oriented thin sections of geologic samples",
+      "em": 0.0,
+      "f1": 0.9473684210526316,
+      "category": "wrong start — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 1.0,
+      "answer_sentence": "Structural geologists use microscopic analysis of oriented thin sections of geologic samples to observe the fabric within the rocks which gives information about strain within the crystalline structure of the rocks.",
+      "pred_start": 26,
+      "gold_start": 22,
+      "context_window": "Structural geologists use microscopic analysis of oriented thin sections of geologic samples to observe the fabric within the rocks which gives information about strain within the crystalline structure of the rocks. They also plot and combine…"
+    },
+    {
+      "id": "572926d23f37b31900478085",
+      "question": "What do students do after primary school?",
+      "golds": [
+        "join a vocational youth/village polytechnic or make their own arrangements for an apprenticeship program",
+        "join a vocational youth/village polytechnic",
+        "four years in high school"
+      ],
+      "pred": "make their own arrangements for an apprenticeship program",
+      "em": 0.0,
+      "f1": 0.7368421052631579,
+      "category": "wrong start — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Primary school is free in public schools and those who exit at this level can join a vocational youth/village polytechnic or make their own arrangements for an apprenticeship program and learn a trade such as tailoring, carpentry, motor vehicle repair, brick-laying and masonry for about two years.",
+      "pred_start": 283,
+      "gold_start": 236,
+      "context_window": "…rs in primary school and four years in high school or secondary school. Primary school is free in public schools and those who exit at this level can join a vocational youth/village polytechnic or make their own arrangements for an apprenticeship program and learn a trade such as tailoring, carpentry, motor vehicle repair, brick-laying and masonry for about two years. Those who complete high school ca…"
+    },
+    {
+      "id": "5711669550c2381900b54adf",
+      "question": "What is the Rankine cycle sometimes called?",
+      "golds": [
+        "practical Carnot cycle",
+        "practical Carnot cycle",
+        "a practical Carnot cycle"
+      ],
+      "pred": "Carnot cycle",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 1.0,
+      "answer_sentence": "The Rankine cycle is sometimes referred to as a practical Carnot cycle because, when an efficient turbine is used, the TS diagram begins to resemble the Carnot cycle.",
+      "pred_start": 58,
+      "gold_start": 48,
+      "context_window": "The Rankine cycle is sometimes referred to as a practical Carnot cycle because, when an efficient turbine is used, the TS diagram begins to resemble the Carnot cycle. The main difference is that heat addition (in the boi…"
+    },
+    {
+      "id": "56f8bbb09e9bad19000a03df",
+      "question": "What did these Lutheran clerics use as fuel to bolster the Policies of the Nazis?",
+      "golds": [
+        "Luther's hostile publications",
+        "Luther's hostile publications",
+        "Luther's hostile publications towards the Jews"
+      ],
+      "pred": "hostile publications",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.42857142857142855,
+      "answer_sentence": "Probst in his book Demonizing the Jews: Luther and the Protestant Church in Nazi Germany (2012), shows that a large number of German Lutheran clergy and theologians during the Nazi Third Reich used Luther's hostile publications towards the Jews and their Jewish religion to justify at least in part the anti-Semitic policies of the National Socialists.",
+      "pred_start": 819,
+      "gold_start": 810,
+      "context_window": "…nd the Protestant Church in Nazi Germany (2012), shows that a large number of German Lutheran clergy and theologians during the Nazi Third Reich used Luther's hostile publications towards the Jews and their Jewish religion to justify at least in part the anti-Semitic policies of the National Socialists."
+    },
+    {
+      "id": "571bb2269499d21900609cac",
+      "question": "What are the three most abundent elements of the universe by mass?",
+      "golds": [
+        "By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium",
+        "oxygen is the third-most abundant element in the universe, after hydrogen and helium",
+        "oxygen is the third-most abundant element in the universe, after hydrogen and helium",
+        "oxygen is the third-most abundant element in the universe, after hydrogen and helium",
+        "By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium."
+      ],
+      "pred": "hydrogen and helium",
+      "em": 0.0,
+      "f1": 0.42857142857142855,
+      "category": "wrong start — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.0,
+      "answer_sentence": "By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.",
+      "pred_start": 318,
+      "gold_start": 253,
+      "context_window": "…n the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Di…"
+    },
+    {
+      "id": "572821274b864d1900164514",
+      "question": "What makes the Wells Fargo Center stand out?",
+      "golds": [
+        "its distinctive flared base",
+        "distinctive flared base",
+        "distinctive flared base"
+      ],
+      "pred": "flared base",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Other notable structures include the 37-story Wells Fargo Center (with its distinctive flared base making it the defining building in the Jacksonville skyline), originally built in 1972-74 by the Independent Life and Accident Insurance Company, and the 28 floor Riverplace Tower which, when completed in 1967, was the tallest precast, post-tensioned concrete structure in the world.",
+      "pred_start": 274,
+      "gold_start": 262,
+      "context_window": "… Barnett Center. It has a height of 617 ft (188 m) and includes 42 floors. Other notable structures include the 37-story Wells Fargo Center (with its distinctive flared base making it the defining building in the Jacksonville skyline), originally built in 1972-74 by the Independent Life and Accident Insurance Company, and…"
+    },
+    {
+      "id": "57286d4f2ca10214002da329",
+      "question": "When did Kublai attack Xiangyang?",
+      "golds": [
+        "between 1268 and 1273",
+        "between 1268 and 1273",
+        "between 1268 and 1273"
+      ],
+      "pred": "1268 and 1273",
+      "em": 0.0,
+      "f1": 0.8571428571428571,
+      "category": "wrong start — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Kublai besieged Xiangyang between 1268 and 1273, the last obstacle in his way to capture the rich Yangzi River basin.",
+      "pred_start": 254,
+      "gold_start": 246,
+      "context_window": "…ine with the tradition of Mongol and Chinese imperialism. He renewed a massive drive against the Song dynasty to the south. Kublai besieged Xiangyang between 1268 and 1273, the last obstacle in his way to capture the rich Yangzi River basin. An unsuccessful naval expedition was undertaken against Japan in 1274. Kublai c…"
+    },
+    {
+      "id": "56e11f83cd28a01900c67612",
+      "question": "Where did Tesla and Twain hang out?",
+      "golds": [
+        "lab",
+        "in his lab",
+        "in his lab and elsewhere"
+      ],
+      "pred": "his lab and elsewhere",
+      "em": 0.0,
+      "f1": 0.888888888888889,
+      "category": "wrong start — too short",
+      "len_bucket": "1",
+      "lex_overlap": 0.5,
+      "answer_sentence": "In middle age, Tesla became a close friend of Mark Twain; they spent a lot of time together in his lab and elsewhere.",
+      "pred_start": 243,
+      "gold_start": 240,
+      "context_window": "…te, Fritz Lowenstein, George Scherff, and Kenneth Swezey. In middle age, Tesla became a close friend of Mark Twain; they spent a lot of time together in his lab and elsewhere. Twain notably described Tesla's induction motor invention as \"the most valuable patent since the telephone.\" In the late 1920s, Tesla also befriende…"
+    },
+    {
+      "id": "56f86d30a6d7ea1400e17606",
+      "question": "Which Germans could understand the language Luther used?",
+      "golds": [
+        "northern and southern",
+        "northern and southern",
+        "both northern and southern Germans"
+      ],
+      "pred": "northern and southern Germans",
+      "em": 0.0,
+      "f1": 0.888888888888889,
+      "category": "wrong start — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.4,
+      "answer_sentence": "Luther's translation used the variant of German spoken at the Saxon chancellery, intelligible to both northern and southern Germans.",
+      "pred_start": 102,
+      "gold_start": 97,
+      "context_window": "Luther's translation used the variant of German spoken at the Saxon chancellery, intelligible to both northern and southern Germans. He intended his vigorous, direct language to make the Bible accessible to everyday Germans, \"for we are removing impediments and difficulties so tha…"
+    },
+    {
+      "id": "573028fa04bcaa1900d77289",
+      "question": "What did the civil war leave the state of Afghanistan's economy in?",
+      "golds": [
+        "one of the poorest countries on earth",
+        "one of the poorest countries on earth",
+        "one of the poorest countries on earth"
+      ],
+      "pred": "poorest countries on earth",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.4,
+      "answer_sentence": "In Afghanistan, the mujahideen's victory against the Soviet Union in the 1980s did not lead to justice and prosperity, due to a vicious and destructive civil war between political and tribal warlords, making Afghanistan one of the poorest countries on earth.",
+      "pred_start": 231,
+      "gold_start": 220,
+      "context_window": "…he 1980s did not lead to justice and prosperity, due to a vicious and destructive civil war between political and tribal warlords, making Afghanistan one of the poorest countries on earth. In 1992, the Democratic Republic of Afghanistan ruled by communist forces collapsed, and democratic Islamist elements of mujahdeen founded the Islam…"
+    }
+  ],
+  "both wrong — inside gold (partial)": [
+    {
+      "id": "5727478cf1498d1400e8f59d",
+      "question": "Along with location, endowment and the willingness of parents to pay, what factor influences private school tuition?",
+      "golds": [
+        "peer tuitions",
+        "peer tuitions",
+        "peer tuitions and the school's financial endowment"
+      ],
+      "pred": "financial",
+      "em": 0.0,
+      "f1": 0.2857142857142857,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.8181818181818182,
+      "answer_sentence": "Tuition at private secondary schools varies from school to school and depends on many factors, including the location of the school, the willingness of parents to pay, peer tuitions and the school's financial endowment.",
+      "pred_start": 436,
+      "gold_start": 405,
+      "context_window": "… secondary schools varies from school to school and depends on many factors, including the location of the school, the willingness of parents to pay, peer tuitions and the school's financial endowment. High tuition, schools claim, is used to pay higher salaries for the best teachers and also used to provide enriched learning environments, including…"
+    },
+    {
+      "id": "5733f1784776f41900661575",
+      "question": "How many men did Duquesne send to relieve  Saint-Pierre ?",
+      "golds": [
+        "Contrecœur led 500 men south from Fort Venango on April 5, 1754",
+        "40",
+        "40",
+        "additional French forces",
+        "40 men"
+      ],
+      "pred": "500",
+      "em": 0.0,
+      "f1": 0.15384615384615385,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Governor Duquesne sent additional French forces under Claude-Pierre Pecaudy de Contrecœur to relieve Saint-Pierre during the same period, and Contrecœur led 500 men south from Fort Venango on April 5, 1754.",
+      "pred_start": 349,
+      "gold_start": 334,
+      "context_window": "…d fort. Governor Duquesne sent additional French forces under Claude-Pierre Pecaudy de Contrecœur to relieve Saint-Pierre during the same period, and Contrecœur led 500 men south from Fort Venango on April 5, 1754. When these forces arrived at the fort on April 16, Contrecœur generously allowed Trent's small company to withdraw. He purchased their construction …"
+    },
+    {
+      "id": "572843304b864d190016484a",
+      "question": "The university agreed to grant a degree to any graduate of affiliate schoos that did what?",
+      "golds": [
+        "made a grade of A for all four years",
+        "made a grade of A for all four years, and on any other graduate who took twelve weeks additional study at the University of Chicago",
+        "made a grade of A for all four years",
+        "made a grade of A for all four years"
+      ],
+      "pred": "took twelve weeks additional study",
+      "em": 0.0,
+      "f1": 0.37037037037037035,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.625,
+      "answer_sentence": "The University of Chicago agreed to confer a degree on any graduating senior from an affiliated school who made a grade of A for all four years, and on any other graduate who took twelve weeks additional study at the University of Chicago.",
+      "pred_start": 864,
+      "gold_start": 796,
+      "context_window": "…nd copies of examinations for suggestions. The University of Chicago agreed to confer a degree on any graduating senior from an affiliated school who made a grade of A for all four years, and on any other graduate who took twelve weeks additional study at the University of Chicago. A student or faculty member of an affiliated school was entitled to free tuition at the University of Chicago, and Chicago students were eligible to…"
+    },
+    {
+      "id": "57263eaa38643c19005ad374",
+      "question": "What does ctenophora mean in Greek?",
+      "golds": [
+        "κτείς kteis 'comb' and φέρω pherō 'carry'",
+        "κτείς kteis 'comb' and φέρω pherō 'carry'",
+        "kteis 'comb' and φέρω pherō 'carry'"
+      ],
+      "pred": "comb",
+      "em": 0.0,
+      "f1": 0.2857142857142857,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Ctenophora (/tᵻˈnɒfərə/; singular ctenophore, /ˈtɛnəfɔːr/ or /ˈtiːnəfɔːr/; from the Greek κτείς kteis 'comb' and φέρω pherō 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide.",
+      "pred_start": 103,
+      "gold_start": 96,
+      "context_window": "Ctenophora (/tᵻˈnɒfərə/; singular ctenophore, /ˈtɛnəfɔːr/ or /ˈtiːnəfɔːr/; from the Greek κτείς kteis 'comb' and φέρω pherō 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide. Their most distinctive feature is the ‘combs’ – groups …"
+    },
+    {
+      "id": "5729686d1d046914007793c2",
+      "question": "What is different about Paulinella chromatophora?",
+      "golds": [
+        "acquired a photosynthetic cyanobacterial endosymbiont more recently",
+        "acquired a photosynthetic cyanobacterial endosymbiont more recently",
+        "acquired a photosynthetic cyanobacterial endosymbiont more recently"
+      ],
+      "pred": "photosynthetic cyanobacterial endosymbiont",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "While most chloroplasts originate from that first set of endosymbiotic events, Paulinella chromatophora is an exception that acquired a photosynthetic cyanobacterial endosymbiont more recently.",
+      "pred_start": 136,
+      "gold_start": 125,
+      "context_window": "While most chloroplasts originate from that first set of endosymbiotic events, Paulinella chromatophora is an exception that acquired a photosynthetic cyanobacterial endosymbiont more recently. It is not clear whether that symbiont is closely related to the ancestral chloroplast of other eukaryotes. Being in the early stages of endosymbiosi…"
+    },
+    {
+      "id": "57288428ff5b5019007da28e",
+      "question": "What Yuan policies did Muslims dislike?",
+      "golds": [
+        "restricting Halal slaughter and other Islamic practices like circumcision",
+        "circumcision",
+        "restricting Halal slaughter and other Islamic practices like circumcision"
+      ],
+      "pred": "Halal slaughter",
+      "em": 0.0,
+      "f1": 0.3636363636363636,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.75,
+      "answer_sentence": "Despite the high position given to Muslims, some policies of the Yuan Emperors severely discriminated against them, restricting Halal slaughter and other Islamic practices like circumcision, as well as Kosher butchering for Jews, forcing them to eat food the Mongol way.",
+      "pred_start": 128,
+      "gold_start": 116,
+      "context_window": "Despite the high position given to Muslims, some policies of the Yuan Emperors severely discriminated against them, restricting Halal slaughter and other Islamic practices like circumcision, as well as Kosher butchering for Jews, forcing them to eat food the Mongol way. Toward the end, corruption and the persecution became so severe that…"
+    },
+    {
+      "id": "5725dd1689a1e219009abfe3",
+      "question": "What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?",
+      "golds": [
+        "deficiencies",
+        "workmanship and quality control",
+        "deficiencies existed in Command Module design, workmanship and quality control",
+        "\"deficiencies existed in Command Module design, workmanship and quality control.\""
+      ],
+      "pred": "Command Module",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "1",
+      "lex_overlap": 0.1111111111111111,
+      "answer_sentence": "While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager.",
+      "pred_start": 218,
+      "gold_start": 194,
+      "context_window": "… board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager. Webb also reassigned Apollo…"
+    },
+    {
+      "id": "57269e3bf1498d1400e8e51a",
+      "question": "At what age did British Gas plc force their workers to retire?",
+      "golds": [
+        "women retire at age 60 and men at 65",
+        "women retire at age 60 and men at 65",
+        "women retire at age 60 and men at 65"
+      ],
+      "pred": "60",
+      "em": 0.0,
+      "f1": 0.19999999999999998,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.42857142857142855,
+      "answer_sentence": "In Foster v British Gas plc the Court of Justice held that Mrs Foster was entitled to bring a sex discrimination claim against her employer, British Gas plc, which made women retire at age 60 and men at 65, if (1) pursuant to a state measure, (2) it provided a public service, and (3) had special powers.",
+      "pred_start": 2165,
+      "gold_start": 2145,
+      "context_window": "… Gas plc the Court of Justice held that Mrs Foster was entitled to bring a sex discrimination claim against her employer, British Gas plc, which made women retire at age 60 and men at 65, if (1) pursuant to a state measure, (2) it provided a public service, and (3) had special powers. This could also be true if the enterprise is priva…"
+    },
+    {
+      "id": "571cc6f85efbb31900334de5",
+      "question": "What is the clarity of liquid oxygen?",
+      "golds": [
+        "clear",
+        "clear substances with a light sky-blue color",
+        "clear",
+        "clear",
+        "clear"
+      ],
+      "pred": "light sky-blue",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "1",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "Both liquid and solid O\n2 are clear substances with a light sky-blue color caused by absorption in the red (in contrast with the blue color of the sky, which is due to Rayleigh scattering of blue light).",
+      "pred_start": 157,
+      "gold_start": 133,
+      "context_window": "Oxygen condenses at 90.20 K (−182.95 °C, −297.31 °F), and freezes at 54.36 K (−218.79 °C, −361.82 °F). Both liquid and solid O\n2 are clear substances with a light sky-blue color caused by absorption in the red (in contrast with the blue color of the sky, which is due to Rayleigh scattering of blue light). High-purity liquid O…"
+    },
+    {
+      "id": "572ffd75b2c2fd14005686e6",
+      "question": "When did the last glacial end?",
+      "golds": [
+        "11,600 BP",
+        "(~11,600 BP",
+        "end of the Pleistocene (~11,600 BP)"
+      ],
+      "pred": "Pleistocene",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "2–3",
+      "lex_overlap": 1.0,
+      "answer_sentence": "The last glacial ran from ~74,000 (BP = Before Present), until the end of the Pleistocene (~11,600 BP).",
+      "pred_start": 78,
+      "gold_start": 67,
+      "context_window": "The last glacial ran from ~74,000 (BP = Before Present), until the end of the Pleistocene (~11,600 BP). In northwest Europe, it saw two very cold phases, peaking around 70,000 BP and around 29,000–24,000 BP. The last phase slightly predates the global …"
+    }
+  ],
+  "both wrong — shifted overlap": [
+    {
+      "id": "573796edc3c5551400e51f36",
+      "question": "How are nuclear forces transmitted?",
+      "golds": [
+        "as gluons",
+        "as gluons",
+        "as gluons",
+        "as gluons"
+      ],
+      "pred": "gluons, which form part of the virtual pi and rho mesons",
+      "em": 0.0,
+      "f1": 0.16666666666666669,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Here the strong force acts indirectly, transmitted as gluons, which form part of the virtual pi and rho mesons, which classically transmit the nuclear force (see this topic for more).",
+      "pred_start": 285,
+      "gold_start": 282,
+      "context_window": "…t known example being the force that acts between nucleons in atomic nuclei) as the nuclear force. Here the strong force acts indirectly, transmitted as gluons, which form part of the virtual pi and rho mesons, which classically transmit the nuclear force (see this topic for more). The failure of many searches for free quarks has shown that the elementary p…"
+    },
+    {
+      "id": "572a213e6aef0514001552f1",
+      "question": "How would the capabilities approach achieve it's goal?",
+      "golds": [
+        "through increasing functionings",
+        "increasing functionings (the things a person values doing), capabilities (the freedom to enjoy functionings) and agency (the ability to pursue valued goals)",
+        "through increasing functionings"
+      ],
+      "pred": "through increasing functionings (the things a person values doing), capabilities (the freedom to enjoy functionings",
+      "em": 0.0,
+      "f1": 0.7333333333333334,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "Its goal is to “wid[en] people’s choices and the level of their achieved well-being” through increasing functionings (the things a person values doing), capabilities (the freedom to enjoy functionings) and agency (the ability to pursue valued goals).",
+      "pred_start": 401,
+      "gold_start": 409,
+      "context_window": "…ome are considered a means to an end rather than the end itself. Its goal is to “wid[en] people’s choices and the level of their achieved well-being” through increasing functionings (the things a person values doing), capabilities (the freedom to enjoy functionings) and agency (the ability to pursue valued goals)."
+    },
+    {
+      "id": "57300137b2c2fd140056871a",
+      "question": "Where did Maududi exert the most impact?",
+      "golds": [
+        "through his writing",
+        "writing",
+        "writing"
+      ],
+      "pred": "writing than through his political organising",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "However, Maududi had much more impact through his writing than through his political organising.",
+      "pred_start": 441,
+      "gold_start": 429,
+      "context_window": "…ut Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but li…"
+    },
+    {
+      "id": "5726414e271a42140099d7e6",
+      "question": "What completed the triad ",
+      "golds": [
+        "an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State",
+        "the CDC mainframe at Michigan State University in East Lansing",
+        "1972 connections"
+      ],
+      "pred": "connections to the CDC mainframe at Michigan State University",
+      "em": 0.0,
+      "f1": 0.7058823529411765,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "7+",
+      "lex_overlap": 0.0,
+      "answer_sentence": "With initial support from the State of Michigan and the National Science Foundation (NSF), the packet-switched network was first demonstrated in December 1971 when an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State University in Detroit.",
+      "pred_start": 688,
+      "gold_start": 703,
+      "context_window": "…was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State University in Detroit. In October 1972 connections to the CDC mainframe at Michigan State University in East Lansing completed the triad. Over the next several years in addition to host to host interactive connections the network was enhanced to support terminal to …"
+    },
+    {
+      "id": "5729e6313f37b319004785aa",
+      "question": "Near where in the continent is it believed that the Amazon basin split?",
+      "golds": [
+        "Purus Arch",
+        "along the middle",
+        "Purus Arch"
+      ],
+      "pred": "middle of the continent",
+      "em": 0.0,
+      "f1": 0.4,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.8333333333333334,
+      "answer_sentence": "During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch.",
+      "pred_start": 96,
+      "gold_start": 86,
+      "context_window": "During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch. Water on the eastern side flowed toward the Atlantic, while to the west water flowed toward the Pacific across the Amazonas Basin.…"
+    },
+    {
+      "id": "5730005db2c2fd1400568706",
+      "question": "Where did Maududi exert the most impact?",
+      "golds": [
+        "through his writing",
+        "writing",
+        "writing"
+      ],
+      "pred": "writing than through his political organising",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.5,
+      "answer_sentence": "However, Maududi had much more impact through his writing than through his political organising.",
+      "pred_start": 441,
+      "gold_start": 429,
+      "context_window": "…ut Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but li…"
+    },
+    {
+      "id": "57308f6b8ab72b1400f9c581",
+      "question": "Early Western texts referencing the East describe the people as being what?",
+      "golds": [
+        "irrational and backward",
+        "them",
+        "as irrational and backward",
+        "irrational and backward",
+        "irrational and backward"
+      ],
+      "pred": "irrational and backward in opposition to the rational and progressive West. Defining the East as a negative vision of itself, as its inferior",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.2857142857142857,
+      "answer_sentence": "This difference was particularly apparent in textual and visual works of early European studies of the Orient that positioned the East as irrational and backward in opposition to the rational and progressive West.",
+      "pred_start": 605,
+      "gold_start": 602,
+      "context_window": "…\" in the East. This difference was particularly apparent in textual and visual works of early European studies of the Orient that positioned the East as irrational and backward in opposition to the rational and progressive West. Defining the East as a negative vision of itself, as its inferior, not only increased the West’s sense of self, but also was a way of ordering the East and making it known to the West so that it could be dominated a…"
+    },
+    {
+      "id": "57293d6d1d046914007791b9",
+      "question": "How many contributing authors does an IPCC report chapter have?",
+      "golds": [
+        "a somewhat larger number",
+        "a somewhat larger number of \"contributing authors\"",
+        "a somewhat larger number"
+      ],
+      "pred": "two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number",
+      "em": 0.0,
+      "f1": 0.42105263157894735,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.6,
+      "answer_sentence": "A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\".",
+      "pred_start": 119,
+      "gold_start": 187,
+      "context_window": "Each chapter has a number of authors who are responsible for writing and editing the material. A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\". The coordinating lead authors are responsible for assembling the contributions of the other authors, ensuring that they meet stylistic and formattin…"
+    },
+    {
+      "id": "5726356938643c19005ad300",
+      "question": "How are packets normally forwarded",
+      "golds": [
+        "by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing",
+        "intermediate network nodes asynchronously using first-in, first-out buffering",
+        "asynchronously"
+      ],
+      "pred": "by intermediate network nodes asynchronously",
+      "em": 0.0,
+      "f1": 0.6153846153846154,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "7+",
+      "lex_overlap": 1.0,
+      "answer_sentence": "Packets are normally forwarded by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing, traffic shaping, or for differentiated or guaranteed quality of service, such as weighted fair queuing or leaky bucket.",
+      "pred_start": 152,
+      "gold_start": 155,
+      "context_window": "…cket mode communication may be implemented with or without intermediate forwarding nodes (packet switches or routers). Packets are normally forwarded by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing, traffic shaping, or for differentiated or guaranteed quality of servi…"
+    },
+    {
+      "id": "5725e152271a42140099d2d0",
+      "question": "Was the testing of the LM during Apollo 5 a failure or a success?",
+      "golds": [
+        "success",
+        "success",
+        "LM engines were successfully test-fired and restarted",
+        "successfully"
+      ],
+      "pred": "successfully test-fired and restarted, despite a computer programming error",
+      "em": 0.0,
+      "f1": 0.5333333333333333,
+      "category": "both wrong — shifted overlap",
+      "len_bucket": "1",
+      "lex_overlap": 0.16666666666666666,
+      "answer_sentence": "The LM engines were successfully test-fired and restarted, despite a computer programming error which cut short the first descent stage firing.",
+      "pred_start": 194,
+      "gold_start": 178,
+      "context_window": "…rst unmanned test flight of LM in Earth orbit, launched from pad 37 on January 22, 1968, by the Saturn IB that would have been used for Apollo 1. The LM engines were successfully test-fired and restarted, despite a computer programming error which cut short the first descent stage firing. The ascent engine was fired in abort mode, known as a \"fire-in-the-hole\" test, where it was lit simul…"
+    }
+  ],
+  "em0_f1_gt0": [
+    {
+      "id": "57275f6ef1498d1400e8f709",
+      "question": "At what address did Goldenson secure a new headquarters for ABC?",
+      "golds": [
+        "1330 Avenue of the Americas in Manhattan",
+        "1330 Avenue of the Americas in Manhattan",
+        "1330 Avenue of the Americas in Manhattan"
+      ],
+      "pred": "1330 Avenue of the Americas",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong end — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "As ABC began to outgrow its facilities at 7 West 66th Street, Goldenson found a new headquarters for ABC in a 44 story building located at 1330 Avenue of the Americas in Manhattan, at the corner of 54th Street (now occupied by The Financial Times's New York office).",
+      "pred_start": 841,
+      "gold_start": 841,
+      "context_window": "…y risque). As ABC began to outgrow its facilities at 7 West 66th Street, Goldenson found a new headquarters for ABC in a 44 story building located at 1330 Avenue of the Americas in Manhattan, at the corner of 54th Street (now occupied by The Financial Times's New York office). This operation allowed for the conversion of the premises at 6…"
+    },
+    {
+      "id": "56dfac8e231d4119001abc5c",
+      "question": "Why was he unable to enroll at the university? ",
+      "golds": [
+        "arrived too late",
+        "arrived too late to enroll",
+        "he arrived too late to enroll at Charles-Ferdinand University; he never studied Greek, a required subject; and he was illiterate in Czech"
+      ],
+      "pred": "he never studied Greek, a required subject",
+      "em": 0.0,
+      "f1": 0.4444444444444445,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "Unfortunately, he arrived too late to enroll at Charles-Ferdinand University; he never studied Greek, a required subject; and he was illiterate in Czech, another required subject.",
+      "pred_start": 202,
+      "gold_start": 139,
+      "context_window": "In January 1880, two of Tesla's uncles put together enough money to help him leave Gospić for Prague where he was to study. Unfortunately, he arrived too late to enroll at Charles-Ferdinand University; he never studied Greek, a required subject; and he was illiterate in Czech, another required subject. Tesla did, however, attend lectures at the university, although, as an auditor, he did not receive grades for the courses."
+    },
+    {
+      "id": "5726710b708984140094c61d",
+      "question": "where is the Victoria and Albert Museum located?",
+      "golds": [
+        "The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea",
+        "London",
+        "London",
+        "in the Brompton district of the Royal Borough of Kensington and Chelsea"
+      ],
+      "pred": "Brompton district of the Royal Borough of Kensington and Chelsea",
+      "em": 0.0,
+      "f1": 0.9473684210526316,
+      "category": "wrong start — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.25,
+      "answer_sentence": "The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea, in an area that has become known as \"Albertopolis\" because of its association with Prince Albert, the Albert Memorial and the major cultural institutions with which he was associated.",
+      "pred_start": 291,
+      "gold_start": 284,
+      "context_window": "…using a permanent collection of over 4.5 million objects. It was founded in 1852 and named after Queen Victoria and Prince Albert. The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea, in an area that has become known as \"Albertopolis\" because of its association with Prince Albert, the Albert Memorial and the major cultural institu…"
+    },
+    {
+      "id": "57295a116aef051400154d48",
+      "question": "What is floridean?",
+      "golds": [
+        "a form of starch",
+        "a form of starch",
+        "a form of starch"
+      ],
+      "pred": "starch",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "wrong start — too short",
+      "len_bucket": "4–6",
+      "lex_overlap": 1.0,
+      "answer_sentence": "Rhodoplasts synthesize a form of starch called floridean, which collects into granules outside the rhodoplast, in the cytoplasm of the red alga.",
+      "pred_start": 780,
+      "gold_start": 770,
+      "context_window": "…s such, some red algae that live in shallow water have less phycoerytherin in their rhodoplasts, and can appear more greenish. Rhodoplasts synthesize a form of starch called floridean, which collects into granules outside the rhodoplast, in the cytoplasm of the red alga."
+    },
+    {
+      "id": "5726f1ec708984140094d6aa",
+      "question": "Approximately how many names were signed on an online petition on the Parliamentary website in response to the closing of the Musical Instruments gallery?",
+      "golds": [
+        "over 5,100",
+        "over 5,100",
+        "over 5,100"
+      ],
+      "pred": "5,100",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong start — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.4166666666666667,
+      "answer_sentence": "An online petition of over 5,100 names on the Parliamentary website led to Chris Smith asking Parliament about the future of the collection.",
+      "pred_start": 127,
+      "gold_start": 122,
+      "context_window": "The Musical Instruments gallery closed 25 February 2010, a decision which was highly controversial. An online petition of over 5,100 names on the Parliamentary website led to Chris Smith asking Parliament about the future of the collection. The answer, from Bryan Davies was that th…"
+    },
+    {
+      "id": "5726e860708984140094d57a",
+      "question": "Which channels did Frank Marx think would be requisitioned by the U.S. Army?",
+      "golds": [
+        "channels 2 through 6",
+        "2 through 6",
+        "low-band VHF"
+      ],
+      "pred": "low-band VHF frequencies (corresponding to channels 2 through 6",
+      "em": 0.0,
+      "f1": 0.6153846153846153,
+      "category": "wrong start — too long",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "These applications all requested for the stations to broadcast on VHF channel 7, as Frank Marx, then ABC's vice-president of engineering, thought that the low-band VHF frequencies (corresponding to channels 2 through 6) would be requisitioned from broadcasting use and reallocated for the U.S.",
+      "pred_start": 513,
+      "gold_start": 556,
+      "context_window": "… applications all requested for the stations to broadcast on VHF channel 7, as Frank Marx, then ABC's vice-president of engineering, thought that the low-band VHF frequencies (corresponding to channels 2 through 6) would be requisitioned from broadcasting use and reallocated for the U.S. Army."
+    },
+    {
+      "id": "5729e2b76aef0514001550d2",
+      "question": "What can result in creating a poverty trap?",
+      "golds": [
+        "gender inequality in education",
+        "low economic growth",
+        "continued gender inequality in education"
+      ],
+      "pred": "gender inequality in education can result to low economic growth, and continued gender inequality in education",
+      "em": 0.0,
+      "f1": 0.47619047619047616,
+      "category": "wrong start — too long",
+      "len_bucket": "4–6",
+      "lex_overlap": 1.0,
+      "answer_sentence": "Lagerlof and Galor stated that gender inequality in education can result to low economic growth, and continued gender inequality in education, thus creating a poverty trap.",
+      "pred_start": 712,
+      "gold_start": 782,
+      "context_window": "… important for the growth of the economy, however educational inequality in gender also influence towards the economy. Lagerlof and Galor stated that gender inequality in education can result to low economic growth, and continued gender inequality in education, thus creating a poverty trap. It is suggested that a large gap in male and female education may indicate backwardness and so may be associated with …"
+    },
+    {
+      "id": "5730b6592461fd1900a9cfd2",
+      "question": "Rudyard Kipling was an influential spokesman for what?",
+      "golds": [
+        "The British spirit of imperialism",
+        "imperialism",
+        "Social Darwinism",
+        "imperialism"
+      ],
+      "pred": "writer Rudyard Kipling. The British Empire",
+      "em": 0.0,
+      "f1": 0.22222222222222224,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.0,
+      "answer_sentence": "The British spirit of imperialism was expressed by Joseph Chamberlain and Lord Rosebury, and implemented in Africa by Cecil Rhodes.",
+      "pred_start": 470,
+      "gold_start": 122,
+      "context_window": "A resurgence came in the late 19th century, with the Scramble for Africa and major additions in Asia and the Middle East. The British spirit of imperialism was expressed by Joseph Chamberlain and Lord Rosebury, and implemented in Africa by Cecil Rhodes. The pseudo-sciences of Social Darwinism and theories of race formed an ideological underpinning during this time. Other influential spokesmen included Lord Cromer, Lord Curzon, General Kitchner, Lord Milner, and the writer Rudyard Kipling. The British Empire was the largest Empire that the world has ever seen both in terms of landmass and population. Its power, both military and economic, remained unmatch…"
+    },
+    {
+      "id": "57298ef11d04691400779531",
+      "question": "What type of prime distribution is characterized about x/log x of numbers less than x?",
+      "golds": [
+        "asymptotic distribution",
+        "asymptotic",
+        "asymptotic distribution",
+        "asymptotic distribution"
+      ],
+      "pred": "asymptotic distribution of primes",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.625,
+      "answer_sentence": "From a mathematical viewpoint, it roughly states that the asymptotic distribution of primes (about x/log x of numbers less than x are primes, the prime number theorem) also holds for much shorter intervals of length about the square root of x (for intervals near x).",
+      "pred_start": 474,
+      "gold_start": 474,
+      "context_window": "…ly states that the irregularity in the distribution of primes only comes from random noise. From a mathematical viewpoint, it roughly states that the asymptotic distribution of primes (about x/log x of numbers less than x are primes, the prime number theorem) also holds for much shorter intervals of length about the square root of …"
+    },
+    {
+      "id": "56be5333acb8001400a5030e",
+      "question": "At which Super Bowl did Beyonce headline the halftime show?",
+      "golds": [
+        "Super Bowl XLVII",
+        "Super Bowl XLVII",
+        "XLVII"
+      ],
+      "pred": "Super Bowl XLVIII",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.6666666666666666,
+      "answer_sentence": "The Super Bowl 50 halftime show was headlined by the British rock group Coldplay with special guest performers Beyoncé and Bruno Mars, who headlined the Super Bowl XLVII and Super Bowl XLVIII halftime shows, respectively.",
+      "pred_start": 296,
+      "gold_start": 275,
+      "context_window": "… Super Bowl 50 halftime show was headlined by the British rock group Coldplay with special guest performers Beyoncé and Bruno Mars, who headlined the Super Bowl XLVII and Super Bowl XLVIII halftime shows, respectively. It was the third-most watched U.S. broadcast ever."
+    },
+    {
+      "id": "572651f9f1498d1400e8dbf1",
+      "question": "How much of a voting majority must there be to effectively censure the Commission?",
+      "golds": [
+        "two-thirds majority",
+        "a two-thirds majority",
+        "a two-thirds majority",
+        "a two-thirds majority"
+      ],
+      "pred": "two-thirds",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.4,
+      "answer_sentence": "It can require the Commission respond to questions and by a two-thirds majority can censure the whole Commission (as happened to the Santer Commission in 1999).",
+      "pred_start": 2742,
+      "gold_start": 2742,
+      "context_window": "…g inquiries into maladministration or appoint an Ombudsman pending any court proceedings. It can require the Commission respond to questions and by a two-thirds majority can censure the whole Commission (as happened to the Santer Commission in 1999). In some cases, the Parliament has explicit consultation rights, whic…"
+    },
+    {
+      "id": "5733f5264776f419006615a6",
+      "question": "What was the importance of the congress?",
+      "golds": [
+        "format of the congress and many specifics of the plan became the prototype for confederation during the War of Independence",
+        "became the prototype for confederation during the War of Independence",
+        "became the prototype for confederation during the War of Independence",
+        "prototype for confederation",
+        "became the prototype for confederation during the War of Independence"
+      ],
+      "pred": "to formalize a unified front in trade and negotiations with various Indians",
+      "em": 0.0,
+      "f1": 0.07407407407407407,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.0,
+      "answer_sentence": "Nevertheless, the format of the congress and many specifics of the plan became the prototype for confederation during the War of Independence.",
+      "pred_start": 162,
+      "gold_start": 493,
+      "context_window": "…ortant political response to the opening of hostilities was the convening of the Albany Congress in June and July, 1754. The goal of the congress was to formalize a unified front in trade and negotiations with various Indians, since allegiance of the various tribes and nations was seen to be pivotal in the success in the war that was unfolding. The plan that the delegates agreed to was never ratified by the colonial legislatures nor approved of by the crown. Nevertheless, the format of the congress and many specifics of the plan became the prototype for confederation during the War of Independence."
+    }
+  ],
+  "low_overlap_wrong": [
+    {
+      "id": "572fd264b2c2fd14005684ab",
+      "question": "What is the minimum amount of time before a bill can go into law?",
+      "golds": [
+        "a 4-week period",
+        "a 4-week period",
+        "4-week period"
+      ],
+      "pred": "4-week",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "However he cannot do so until a 4-week period has elapsed, during which the Law Officers of the Scottish Government or UK Government can refer the bill to the Supreme Court of the United Kingdom for a ruling on whether it is within the powers of the Parliament.",
+      "pred_start": 193,
+      "gold_start": 191,
+      "context_window": "…sed, the Presiding Officer submits it to the Monarch for royal assent and it becomes an Act of the Scottish Parliament. However he cannot do so until a 4-week period has elapsed, during which the Law Officers of the Scottish Government or UK Government can refer the bill to the Supreme Court of the United Kingdom …"
+    },
+    {
+      "id": "56d6ee6e0d65d21400198257",
+      "question": "What was the third city that was considered?",
+      "golds": [
+        "San Francisco",
+        "San Francisco",
+        "San Francisco Bay Area's"
+      ],
+      "pred": "New Orleans",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.0,
+      "answer_sentence": "The league eventually narrowed the bids to three sites: New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium.",
+      "pred_start": 56,
+      "gold_start": 128,
+      "context_window": "The league eventually narrowed the bids to three sites: New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium."
+    },
+    {
+      "id": "5728dc2d3acd2414000e0083",
+      "question": "What public entity of learning is often target of civil disobedience?",
+      "golds": [
+        "universities",
+        "private universities",
+        "private universities",
+        "private universities",
+        "private universities"
+      ],
+      "pred": "governmental",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 0.14285714285714285,
+      "answer_sentence": "Brownlee argues that disobedience in opposition to the decisions of non-governmental agencies such as trade unions, banks, and private universities can be justified if it reflects \"a larger challenge to the legal system that permits those decisions to be taken\".",
+      "pred_start": 91,
+      "gold_start": 249,
+      "context_window": "Some theories of civil disobedience hold that civil disobedience is only justified against governmental entities. Brownlee argues that disobedience in opposition to the decisions of non-governmental agencies such as trade unions, banks, and private universities can be justified if it reflects \"a larger challenge to the legal system that permits those decisions to be taken\". The same principle, she argues, ap…"
+    },
+    {
+      "id": "5729e500af94a219006aa6b8",
+      "question": "The amazon rainforest became a mostly inland forest around which global event?",
+      "golds": [
+        "last glacial maximum",
+        "last glacial maximum",
+        "last glacial maximum"
+      ],
+      "pred": "glacial maximum",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too short",
+      "len_bucket": "2–3",
+      "lex_overlap": 0.2222222222222222,
+      "answer_sentence": "It expanded again during the Middle Miocene, then retracted to a mostly inland formation at the last glacial maximum.",
+      "pred_start": 542,
+      "gold_start": 537,
+      "context_window": "…ple, the rainforest spanned a relatively narrow band. It expanded again during the Middle Miocene, then retracted to a mostly inland formation at the last glacial maximum. However, the rainforest still managed to thrive during these glacial periods, allowing for the survival and evolution of a broad diversity of specie…"
+    },
+    {
+      "id": "5725dd1689a1e219009abfe3",
+      "question": "What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?",
+      "golds": [
+        "deficiencies",
+        "workmanship and quality control",
+        "deficiencies existed in Command Module design, workmanship and quality control",
+        "\"deficiencies existed in Command Module design, workmanship and quality control.\""
+      ],
+      "pred": "Command Module",
+      "em": 0.0,
+      "f1": 0.33333333333333337,
+      "category": "both wrong — inside gold (partial)",
+      "len_bucket": "1",
+      "lex_overlap": 0.1111111111111111,
+      "answer_sentence": "While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager.",
+      "pred_start": 218,
+      "gold_start": 194,
+      "context_window": "… board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager. Webb also reassigned Apollo…"
+    },
+    {
+      "id": "5728df634b864d1900164fe6",
+      "question": "Why is it preferred that civil disobedience is non violent?",
+      "golds": [
+        "help preserve society's tolerance of civil disobedience",
+        "preserve society's tolerance of civil disobedience",
+        "rebellion is much more destructive",
+        "Civil disobedients' refraining from violence is also said to help preserve society's tolerance of civil disobedience",
+        "help preserve society's tolerance"
+      ],
+      "pred": "both civil disobedience and civil rebellion are justified by appeal to constitutional defects",
+      "em": 0.0,
+      "f1": 0.27586206896551724,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "7+",
+      "lex_overlap": 0.2,
+      "answer_sentence": "Civil disobedients' refraining from violence is also said to help preserve society's tolerance of civil disobedience.",
+      "pred_start": 376,
+      "gold_start": 761,
+      "context_window": "…ivil disobedience requires \"carefully chosen and legitimate means,\" but holds that they do not have to be non-violent. It has been argued that, while both civil disobedience and civil rebellion are justified by appeal to constitutional defects, rebellion is much more destructive; therefore, the defects justifying rebellion must be much more serious than those justifying disobedience, and if one cannot justify civil rebellion, then one cannot justify a civil disobedients' use of force and violence and refusal to submit to arrest. Civil disobedients' refraining from violence is also said to help preserve society's tolerance of civil disobedience."
+    },
+    {
+      "id": "572974923f37b3190047840f",
+      "question": "What are the molecular outputs for photosynthesis?",
+      "golds": [
+        "sugar and oxygen (O2)",
+        "sugar and oxygen (O2)",
+        "sugar and oxygen (O2)"
+      ],
+      "pred": "light is transformed into chemical energy, to subsequently produce food in the form of sugars",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "4–6",
+      "lex_overlap": 0.3333333333333333,
+      "answer_sentence": "Water (H2O) and carbon dioxide (CO2) are used in photosynthesis, and sugar and oxygen (O2) is made, using light energy.",
+      "pred_start": 97,
+      "gold_start": 261,
+      "context_window": "One of the main functions of the chloroplast is its role in photosynthesis, the process by which light is transformed into chemical energy, to subsequently produce food in the form of sugars. Water (H2O) and carbon dioxide (CO2) are used in photosynthesis, and sugar and oxygen (O2) is made, using light energy. Photosynthesis is divided into two stages—the light reactions, where water is split to produce oxygen, and the dark reac…"
+    },
+    {
+      "id": "57290f963f37b31900477feb",
+      "question": "What will the Prime Minister have power over?",
+      "golds": [
+        "PM will have power and authority to co-ordinate and supervise the functions of the Government",
+        "co-ordinate and supervise the functions of the Government",
+        "co-ordinate and supervise the functions of the Government"
+      ],
+      "pred": "the Government",
+      "em": 0.0,
+      "f1": 0.2857142857142857,
+      "category": "wrong start — too short",
+      "len_bucket": "7+",
+      "lex_overlap": 0.0,
+      "answer_sentence": "The new office of the PM will have power and authority to co-ordinate and supervise the functions of the Government and will be occupied by an elected MP who will be the leader of the party or coalition with majority members in Parliament.",
+      "pred_start": 101,
+      "gold_start": 58,
+      "context_window": "The new office of the PM will have power and authority to co-ordinate and supervise the functions of the Government and will be occupied by an elected MP who will be the leader of the party or coalition with majority members in Parliament. The world watched Annan a…"
+    }
+  ],
+  "baseline_only_correct": [
+    {
+      "id": "572fce12a23a5019007fca11",
+      "question": "What is stage 1 in the life of a bill?",
+      "golds": [
+        "introductory",
+        "introductory",
+        "introductory stage of the bill"
+      ],
+      "pred": "the first, or introductory stage of the bill",
+      "em": 0.0,
+      "f1": 0.8,
+      "category": "wrong start — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.75,
+      "answer_sentence": "Stage 1 is the first, or introductory stage of the bill, where the minister or member in charge of the bill will formally introduce it to Parliament together with its accompanying documents – Explanatory Notes, a Policy Memorandum setting out the policy underlying the bill, and a Financial Memorandum setting out the costs and savings associated with it.",
+      "pred_start": 11,
+      "gold_start": 25,
+      "context_window": "Stage 1 is the first, or introductory stage of the bill, where the minister or member in charge of the bill will formally introduce it to Parliament together with its accompanying documents – Explanatory N…"
+    },
+    {
+      "id": "573062662461fd1900a9cdfb",
+      "question": "Informal imperialism is still dominant; however, less what?",
+      "golds": [
+        "direct",
+        "direct",
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "pred": "powerful form of dominance",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 0.8333333333333334,
+      "answer_sentence": "\"Informal imperialism\" is less direct; however, it is still a powerful form of dominance.",
+      "pred_start": 548,
+      "gold_start": 517,
+      "context_window": "…rmal\" or \"informal\" imperialisms. \"Formal imperialism\" is defined as \"physical control or full-fledged colonial rule\". \"Informal imperialism\" is less direct; however, it is still a powerful form of dominance."
+    },
+    {
+      "id": "5705e99452bb89140068968a",
+      "question": "What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",
+      "golds": [
+        "counties",
+        "counties",
+        "five most populous in the state"
+      ],
+      "pred": "the five most populous",
+      "em": 0.0,
+      "f1": 0.7499999999999999,
+      "category": "wrong end — too short",
+      "len_bucket": "1",
+      "lex_overlap": 1.0,
+      "answer_sentence": "Its counties of Los Angeles, Orange, San Diego, San Bernardino, and Riverside are the five most populous in the state and all are in the top 15 most populous counties in the United States.",
+      "pred_start": 82,
+      "gold_start": 86,
+      "context_window": "Its counties of Los Angeles, Orange, San Diego, San Bernardino, and Riverside are the five most populous in the state and all are in the top 15 most populous counties in the United States."
+    },
+    {
+      "id": "572754dd708984140094dc3f",
+      "question": "What school model is Sweden notable for?",
+      "golds": [
+        "voucher",
+        "voucher",
+        "pupils are free to choose a private school"
+      ],
+      "pred": "school voucher model",
+      "em": 0.0,
+      "f1": 0.5,
+      "category": "both wrong — covers gold (over-extended)",
+      "len_bucket": "1",
+      "lex_overlap": 0.75,
+      "answer_sentence": "Sweden is internationally known for this innovative school voucher model that provides Swedish pupils with the opportunity to choose the school they prefer.",
+      "pred_start": 246,
+      "gold_start": 253,
+      "context_window": "…amount as municipal schools. Over 10% of Swedish pupils were enrolled in private schools in 2008. Sweden is internationally known for this innovative school voucher model that provides Swedish pupils with the opportunity to choose the school they prefer. For instance, the biggest school chain, Kunskapsskolan (“The Know…"
+    },
+    {
+      "id": "57379a4b1c456719005744d0",
+      "question": "What is the force that causes rigid strength in structures?",
+      "golds": [
+        "normal",
+        "normal force",
+        "normal force",
+        "normal force"
+      ],
+      "pred": "Pauli repulsion",
+      "em": 0.0,
+      "f1": 0.0,
+      "category": "wrong span (no overlap)",
+      "len_bucket": "1",
+      "lex_overlap": 0.2,
+      "answer_sentence": "When their electron clouds overlap, Pauli repulsion (due to fermionic nature of electrons) follows resulting in the force that acts in a direction normal to the surface interface between two objects.:93 The normal force, for example, is responsible for the structural integrity of tables and floors as well as being the force that responds whenever an external force pushes on a solid object.",
+      "pred_start": 127,
+      "gold_start": 298,
+      "context_window": "The normal force is due to repulsive forces of interaction between atoms at close contact. When their electron clouds overlap, Pauli repulsion (due to fermionic nature of electrons) follows resulting in the force that acts in a direction normal to the surface interface between two objects.:93 The normal force, for example, is responsible for the structural integrity of tables and floors as well as being the force that responds whenever an external fo…"
+    },
+    {
+      "id": "57115ac550c2381900b54a79",
+      "question": "What type of steam engine produces most electricity in the world today?",
+      "golds": [
+        "turbine",
+        "turbine type",
+        "electric motors",
+        "turbine type"
+      ],
+      "pred": "turbine type steam engines",
+      "em": 0.0,
+      "f1": 0.6666666666666666,
+      "category": "wrong end — too long",
+      "len_bucket": "1",
+      "lex_overlap": 0.375,
+      "answer_sentence": "Considering that the great majority of worldwide electric generation is produced by turbine type steam engines, the \"steam age\" is continuing with energy levels far beyond those of the turn of the 19th century.",
+      "pred_start": 428,
+      "gold_start": 428,
+      "context_window": "… usage, and the ascendancy of steam turbines in power generation. Considering that the great majority of worldwide electric generation is produced by turbine type steam engines, the \"steam age\" is continuing with energy levels far beyond those of the turn of the 19th century."
+    }
+  ],
+  "distractor_addsent_flips": [
+    {
+      "question": "How might gravity effects be observed differently according to Newton?",
+      "gold": "at larger distances.",
+      "pred_original": "at larger distances",
+      "pred_with_distractor": "$1,000,000",
+      "distractor": "$1,000,000 might gravity effects be observed differently according to NP."
+    },
+    {
+      "question": "What is the prize offered for finding a solution to P=NP?",
+      "gold": "$1,000,000",
+      "pred_original": "US$1,000,000",
+      "pred_with_distractor": "Tentilla",
+      "distractor": "Tentilla is the prize offered for finding a solution to P=NP."
+    },
+    {
+      "question": "What are the little tentacles that cydippids have called?",
+      "gold": "tentilla",
+      "pred_original": "tentilla",
+      "pred_with_distractor": "Glucose monomers",
+      "distractor": "Glucose monomers in the chloroplast can be linked together are the little tentacles that cydippids have called."
+    },
+    {
+      "question": "Which lunar probe was near the Apollo 12 crew's landing site?",
+      "gold": "Surveyor 3",
+      "pred_original": "Surveyor 3",
+      "pred_with_distractor": "X-ray image lunar probe was near the Geissler 42",
+      "distractor": "X-ray image lunar probe was near the Geissler 42 crew's landing site."
+    },
+    {
+      "question": "Electrolysis of what can be used to produce oxygen and hydrogen?",
+      "gold": "water",
+      "pred_original": "water",
+      "pred_with_distractor": "25 percent",
+      "distractor": "Electrolysis of 25 percent can be used to produce oxygen and hydrogen."
+    },
+    {
+      "question": "How many other important people sent letters?",
+      "gold": "more than 70",
+      "pred_original": "more than 70",
+      "pred_with_distractor": "1985",
+      "distractor": "1985 other important people sent letters."
+    },
+    {
+      "question": "What is an alternate way to make starch?",
+      "gold": "glucose monomers in the chloroplast can be linked together",
+      "pred_original": "glucose monomers",
+      "pred_with_distractor": "Buddhism",
+      "distractor": "Buddhism, especially the Tibetan variants is an alternate way to make starch."
+    },
+    {
+      "question": "What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?",
+      "gold": "X-ray image",
+      "pred_original": "X-ray",
+      "pred_with_distractor": "Orientalism",
+      "distractor": "Irrational and backward type of image was Orientalism thought to have accidentally taken a week prior to the announcement of its discovery."
+    },
+    {
+      "question": "How many will the host committee dedicate to local charities?",
+      "gold": "25 percent",
+      "pred_original": "25",
+      "pred_with_distractor": "50",
+      "distractor": "Creative plea will the host committee dedicate to local charities."
+    },
+    {
+      "question": "In what city is SAP Center located?",
+      "gold": "San Jose",
+      "pred_original": "San Jose",
+      "pred_with_distractor": "Carotenoids",
+      "distractor": "In Carotenoids city is SAP Carotenoids located."
+    }
+  ],
+  "distractor_contradictory_flips": [
+    {
+      "question": "How might gravity effects be observed differently according to Newton?",
+      "gold": "at larger distances.",
+      "pred_original": "at larger distances",
+      "pred_with_distractor": "$1,000,000",
+      "distractor": "$1,000,000 might gravity effects be observed differently according to Newton."
+    },
+    {
+      "question": "What is the prize offered for finding a solution to P=NP?",
+      "gold": "$1,000,000",
+      "pred_original": "US$1,000,000",
+      "pred_with_distractor": "White",
+      "distractor": "White is the prize offered for finding a solution to P=NP."
+    },
+    {
+      "question": "What color were the Bronco's uniforms in Super Bowl 50?",
+      "gold": "white",
+      "pred_original": "white",
+      "pred_with_distractor": "Tentilla",
+      "distractor": "Tentilla color were the Bronco's uniforms in Super Bowl 50."
+    },
+    {
+      "question": "What are the little tentacles that cydippids have called?",
+      "gold": "tentilla",
+      "pred_original": "tentilla",
+      "pred_with_distractor": "Surveyor 3",
+      "distractor": "Surveyor 3 are the little tentacles that cydippids have called."
+    },
+    {
+      "question": "Which lunar probe was near the Apollo 12 crew's landing site?",
+      "gold": "Surveyor 3",
+      "pred_original": "Surveyor 3",
+      "pred_with_distractor": "Water",
+      "distractor": "Water lunar probe was near the Apollo 12 crew's landing site."
+    },
+    {
+      "question": "Electrolysis of what can be used to produce oxygen and hydrogen?",
+      "gold": "water",
+      "pred_original": "water",
+      "pred_with_distractor": "25 May 1521",
+      "distractor": "Electrolysis of 25 May 1521 can be used to produce oxygen and hydrogen."
+    },
+    {
+      "question": "How many other important people sent letters?",
+      "gold": "more than 70",
+      "pred_original": "more than 70",
+      "pred_with_distractor": "70",
+      "distractor": "Glucose monomers in the chloroplast can be linked together other important people sent letters."
+    },
+    {
+      "question": "What is an alternate way to make starch?",
+      "gold": "glucose monomers in the chloroplast can be linked together",
+      "pred_original": "glucose monomers",
+      "pred_with_distractor": "X-ray image",
+      "distractor": "X-ray image is an alternate way to make starch."
+    },
+    {
+      "question": "What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?",
+      "gold": "X-ray image",
+      "pred_original": "X-ray",
+      "pred_with_distractor": "modern context",
+      "distractor": "In a modern context type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery."
+    },
+    {
+      "question": "Where did Maududi's books place Islam?",
+      "gold": "in a modern context",
+      "pred_original": "a modern context",
+      "pred_with_distractor": "Construction",
+      "distractor": "Construction did Maududi's books place Islam."
+    }
+  ]
+}
