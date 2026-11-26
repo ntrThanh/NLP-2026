@@ -1,0 +1,6 @@
+experiment,model,max_length,stride,train_examples,epochs,EM,F1,train_time_min
+Exp3: model comparison,Baseline (keyword overlap + answer-type rules),-,-,0,0,15.71,28.63,0.0
+Exp2/3: model comparison,bert-base-cased fine-tuned,384,128,85579,2,81.4,88.73,76.9
+Exp1: context length,bert-base-cased fine-tuned,128,42,20000,1,73.3,81.92,10.8
+Exp1: context length,bert-base-cased fine-tuned,256,85,20000,1,72.35,81.67,7.6
+Exp1: context length,bert-base-cased fine-tuned,384,128,20000,1,71.89,81.18,9.5

@@ -1,0 +1,159 @@
+{
+  "answer_length": [
+    {
+      "answer_length": "1",
+      "n": 3429,
+      "bert_EM": 85.13,
+      "bert_F1": 89.37,
+      "baseline_EM": 22.95,
+      "baseline_F1": 32.22,
+      "bert_F1_minus_EM": 4.24
+    },
+    {
+      "answer_length": "2–3",
+      "n": 4575,
+      "bert_EM": 83.56,
+      "bert_F1": 89.96,
+      "baseline_EM": 14.73,
+      "baseline_F1": 29.39,
+      "bert_F1_minus_EM": 6.4
+    },
+    {
+      "answer_length": "4–6",
+      "n": 1648,
+      "bert_EM": 78.4,
+      "bert_F1": 88.42,
+      "baseline_EM": 10.25,
+      "baseline_F1": 24.13,
+      "bert_F1_minus_EM": 10.02
+    },
+    {
+      "answer_length": "7+",
+      "n": 918,
+      "bert_EM": 62.09,
+      "bert_F1": 80.81,
+      "baseline_EM": 3.38,
+      "baseline_F1": 19.54,
+      "bert_F1_minus_EM": 18.72
+    }
+  ],
+  "lexical_overlap": [
+    {
+      "overlap_group": "high overlap (≥0.80)",
+      "n": 2847,
+      "mean_overlap": 0.93,
+      "bert_EM": 87.43,
+      "bert_F1": 93.53,
+      "baseline_EM": 24.69,
+      "baseline_F1": 40.05
+    },
+    {
+      "overlap_group": "low overlap (≤0.40)",
+      "n": 2956,
+      "mean_overlap": 0.228,
+      "bert_EM": 73.17,
+      "bert_F1": 82.19,
+      "baseline_EM": 6.5,
+      "baseline_F1": 15.8
+    },
+    {
+      "overlap_group": "middle",
+      "n": 4767,
+      "mean_overlap": 0.609,
+      "bert_EM": 82.9,
+      "bert_F1": 89.93,
+      "baseline_EM": 16.07,
+      "baseline_F1": 29.76
+    }
+  ],
+  "boundary": {
+    "n_test": 10570,
+    "n_em0": 1966,
+    "n_wrong_start": 1467,
+    "n_wrong_end": 1413,
+    "n_wrong_start_among_overlapping": 644,
+    "n_wrong_end_among_overlapping": 590,
+    "n_only_start_wrong": 553,
+    "n_only_end_wrong": 499,
+    "n_both_wrong_overlapping": 91,
+    "n_no_overlap": 823,
+    "categories": {
+      "correct": 8604,
+      "wrong span (no overlap)": 823,
+      "wrong start — too long": 316,
+      "wrong end — too long": 287,
+      "wrong start — too short": 237,
+      "wrong end — too short": 212,
+      "both wrong — covers gold (over-extended)": 46,
+      "both wrong — shifted overlap": 23,
+      "both wrong — inside gold (partial)": 22
+    },
+    "em0_f1_gt0": 1321,
+    "mean_pred_len_words_when_wrong": 4.983214649033571,
+    "mean_gold_len_words_when_wrong": 4.261444557477111
+  },
+  "agreement": {
+    "both_em": 1541,
+    "bert_only_em": 7063,
+    "baseline_only_em": 120,
+    "neither_em": 1846
+  },
+  "robustness": [
+    {
+      "condition": "original",
+      "n": 1000,
+      "windows/example": 1.017,
+      "bert_em": 81.8,
+      "bert_f1": 90.05,
+      "baseline_em": 18.8,
+      "baseline_f1": 32.0
+    },
+    {
+      "condition": "irrelevant_append",
+      "n": 1000,
+      "windows/example": 1.309,
+      "bert_em": 81.0,
+      "bert_f1": 88.88,
+      "baseline_em": 18.8,
+      "baseline_f1": 32.0
+    },
+    {
+      "condition": "irrelevant_prepend",
+      "n": 1000,
+      "windows/example": 1.309,
+      "bert_em": 78.4,
+      "bert_f1": 86.72,
+      "baseline_em": 18.6,
+      "baseline_f1": 31.69
+    },
+    {
+      "condition": "distractor_addsent",
+      "n": 1000,
+      "windows/example": 1.02,
+      "bert_em": 42.9,
+      "bert_f1": 47.18,
+      "baseline_em": 10.2,
+      "baseline_f1": 16.95
+    },
+    {
+      "condition": "distractor_contradictory",
+      "n": 1000,
+      "windows/example": 1.02,
+      "bert_em": 29.4,
+      "bert_f1": 32.47,
+      "baseline_em": 4.8,
+      "baseline_f1": 8.44
+    },
+    {
+      "condition": "shuffled_sentences",
+      "n": 1000,
+      "windows/example": 1.017,
+      "bert_em": 79.5,
+      "bert_f1": 88.75,
+      "baseline_em": 18.3,
+      "baseline_f1": 32.05
+    }
+  ],
+  "distractor_addsent_flip_rate": 39.5,
+  "distractor_contradictory_flip_rate": 52.9
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "len256",
+  "config": {
+    "tag": "len256",
+    "model": "bert-base-cased",
+    "max_length": 256,
+    "stride": 85,
+    "epochs": 1,
+    "batch_size": 8,
+    "grad_accum": 2,
+    "lr": 3e-05,
+    "weight_decay": 0.01,
+    "warmup": 0.1,
+    "evals_per_epoch": 2,
+    "train_samples": 20000,
+    "dev_samples": 0,
+    "test_samples": 0,
+    "seed": 42,
+    "output_dir": "outputs",
+    "save_model": false
+  },
+  "train_examples": 20000,
+  "train_features": 22448,
+  "windows_per_example": 1.1224,
+  "features_answer_in_window_pct": 91.22416250890947,
+  "dev_features": 2218,
+  "test_features": 12096,
+  "preprocess_sec": 15.72033143043518,
+  "train_time_sec": 453.9378385543823,
+  "test": {
+    "exact_match": 72.34626300851467,
+    "f1": 81.67306715092248,
+    "n": 10570,
+    "loss": 1.1795128650135465
+  },
+  "final_dev": {
+    "step": 1403,
+    "epoch": 1.0,
+    "train_loss": 1.1278870701789856,
+    "train_start_loss": 1.1012650728225708,
+    "train_end_loss": 1.1545090675354004,
+    "val_loss": 1.06570114414363,
+    "val_em": 62.722772277227726,
+    "val_f1": 77.07298551660507,
+    "train_time_sec": 453.9378385543823
+  },
+  "gpu": "NVIDIA GeForce RTX 3060"
+}
